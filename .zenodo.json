@@ -1,0 +1,11 @@
+{
+  "title": "Code and results for: Unicode-Aware, Position-Bound Integrity Verification of Digital Quran Text with a Signed Two-Level Merkle Registry",
+  "upload_type": "software",
+  "description": "Code, result files and logs for a paper submitted to IMAN 2026 (Islamic Applications in Computer Science and Technologies). A position-bound, signed two-level Merkle registry for Quran text with Unicode-aware diagnosis of changes. Quran text copies are not included.",
+  "creators": [
+    { "name": "Almamoori, Hiba Rashid", "affiliation": "Department of Cyber Security, College of Information Technology, University of Babylon, Iraq" }
+  ],
+  "license": "MIT",
+  "keywords": ["Quran text integrity", "Unicode normalization", "Merkle tree", "homoglyph attack", "tamper localization", "digital signature"],
+  "access_right": "open"
+}

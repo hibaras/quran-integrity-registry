@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Code and results for: Unicode-Aware, Position-Bound Integrity Verification of Digital Quran Text with a Signed Two-Level Merkle Registry"
+type: software
+authors:
+  - family-names: Almamoori
+    given-names: Hiba Rashid
+    affiliation: "Department of Cyber Security, College of Information Technology, University of Babylon, Iraq"
+license: MIT
+repository-code: "https://github.com/hibaras/quran-integrity-registry"
+keywords:
+  - Quran text integrity
+  - Unicode normalization
+  - Merkle tree
+  - tamper localization

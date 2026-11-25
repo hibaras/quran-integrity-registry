@@ -63,3 +63,12 @@ from `backup_v2/src/qintegrity.py`; keep that file when publishing the package.
   (fontkit): string pairs reach Node and `rsvg-convert` through pipes only.
 * `src/exp_field.py`, `src/fetch_field.sh`, `src/field_sha256.txt` – field test (Exp. 6).
 * Tampered copies are generated in memory only; no modified Quran text is written to disk.
+
+## Licence
+
+The code, result files and logs in this repository are released under the MIT licence
+(see `LICENSE`). Two files are not covered by it: `data/confusables-15.1.0.txt` and
+`data/DerivedCoreProperties-15.1.0.txt` are Unicode data files (© Unicode, Inc., under the
+Unicode Terms of Use). Quran texts are not included; the Tanzil text is distributed under
+its own terms (CC BY 3.0, verbatim copies only, source and link to tanzil.net required), and
+the other editions and field-test copies keep their providers' licences (`data/PROVENANCE.md`).

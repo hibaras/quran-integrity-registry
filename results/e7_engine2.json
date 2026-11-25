@@ -1,0 +1,620 @@
+{
+ "engine": "fontkit 2.0.4",
+ "sets": {
+  "NFC": {
+   "pairs": 5720,
+   "fonts": {
+    "Noto Naskh Arabic": {
+     "ink_identical": 1702,
+     "advance_identical": 5720,
+     "errors": 0,
+     "notdef_pairs": 0,
+     "examples": [
+      [
+       11,
+       11
+      ],
+      [
+       14,
+       13
+      ],
+      [
+       14,
+       14
+      ]
+     ]
+    },
+    "Amiri": {
+     "ink_identical": 912,
+     "advance_identical": 4763,
+     "errors": 0,
+     "notdef_pairs": 0,
+     "examples": [
+      [
+       11,
+       11
+      ],
+      [
+       13,
+       12
+      ],
+      [
+       12,
+       11
+      ]
+     ]
+    },
+    "Scheherazade New": {
+     "ink_identical": 5683,
+     "advance_identical": 5720,
+     "errors": 0,
+     "notdef_pairs": 0,
+     "examples": [
+      [
+       12,
+       11
+      ],
+      [
+       10,
+       10
+      ],
+      [
+       9,
+       9
+      ]
+     ]
+    },
+    "Amiri Quran": {
+     "ink_identical": 0,
+     "advance_identical": 0,
+     "errors": 5720,
+     "notdef_pairs": 0,
+     "examples": [],
+     "error": "Cannot read properties of null (reading 'xCoordinate')"
+    },
+    "KFGQPC Uthmanic Hafs": {
+     "ink_identical": 925,
+     "advance_identical": 4730,
+     "errors": 0,
+     "notdef_pairs": 0,
+     "examples": [
+      [
+       11,
+       11
+      ],
+      [
+       13,
+       12
+      ],
+      [
+       12,
+       11
+      ]
+     ]
+    }
+   }
+  },
+  "NFD": {
+   "pairs": 8167,
+   "fonts": {
+    "Noto Naskh Arabic": {
+     "ink_identical": 938,
+     "advance_identical": 7855,
+     "errors": 0,
+     "notdef_pairs": 0,
+     "examples": [
+      [
+       11,
+       12
+      ],
+      [
+       11,
+       12
+      ],
+      [
+       10,
+       11
+      ]
+     ]
+    },
+    "Amiri": {
+     "ink_identical": 825,
+     "advance_identical": 5245,
+     "errors": 0,
+     "notdef_pairs": 0,
+     "examples": [
+      [
+       11,
+       12
+      ],
+      [
+       11,
+       12
+      ],
+      [
+       10,
+       11
+      ]
+     ]
+    },
+    "Scheherazade New": {
+     "ink_identical": 6930,
+     "advance_identical": 8102,
+     "errors": 0,
+     "notdef_pairs": 0,
+     "examples": [
+      [
+       14,
+       15
+      ],
+      [
+       12,
+       13
+      ],
+      [
+       13,
+       14
+      ]
+     ]
+    },
+    "Amiri Quran": {
+     "ink_identical": 0,
+     "advance_identical": 5,
+     "errors": 8162,
+     "notdef_pairs": 0,
+     "examples": [
+      [
+       3,
+       4
+      ],
+      [
+       4,
+       5
+      ],
+      [
+       3,
+       4
+      ]
+     ],
+     "error": "Cannot read properties of null (reading 'xCoordinate')"
+    },
+    "KFGQPC Uthmanic Hafs": {
+     "ink_identical": 830,
+     "advance_identical": 4240,
+     "errors": 0,
+     "notdef_pairs": 0,
+     "examples": [
+      [
+       11,
+       12
+      ],
+      [
+       11,
+       12
+      ],
+      [
+       10,
+       11
+      ]
+     ]
+    }
+   }
+  },
+  "single_P1": {
+   "pairs": 300,
+   "fonts": {
+    "Noto Naskh Arabic": {
+     "ink_identical": 300,
+     "advance_identical": 300,
+     "errors": 0,
+     "notdef_pairs": 0,
+     "examples": []
+    },
+    "Amiri": {
+     "ink_identical": 300,
+     "advance_identical": 300,
+     "errors": 0,
+     "notdef_pairs": 0,
+     "examples": []
+    },
+    "Scheherazade New": {
+     "ink_identical": 283,
+     "advance_identical": 283,
+     "errors": 0,
+     "notdef_pairs": 0,
+     "examples": [
+      [
+       253,
+       253
+      ],
+      [
+       98,
+       98
+      ],
+      [
+       56,
+       56
+      ]
+     ]
+    },
+    "Amiri Quran": {
+     "ink_identical": 0,
+     "advance_identical": 0,
+     "errors": 300,
+     "notdef_pairs": 0,
+     "examples": [],
+     "error": "Cannot read properties of null (reading 'xCoordinate')"
+    },
+    "KFGQPC Uthmanic Hafs": {
+     "ink_identical": 0,
+     "advance_identical": 0,
+     "errors": 0,
+     "notdef_pairs": 0,
+     "examples": [
+      [
+       159,
+       159
+      ],
+      [
+       103,
+       103
+      ],
+      [
+       200,
+       200
+      ]
+     ]
+    }
+   }
+  },
+  "single_P2": {
+   "pairs": 300,
+   "fonts": {
+    "Noto Naskh Arabic": {
+     "ink_identical": 300,
+     "advance_identical": 300,
+     "errors": 0,
+     "notdef_pairs": 0,
+     "examples": []
+    },
+    "Amiri": {
+     "ink_identical": 276,
+     "advance_identical": 276,
+     "errors": 0,
+     "notdef_pairs": 0,
+     "examples": [
+      [
+       143,
+       143
+      ],
+      [
+       41,
+       41
+      ],
+      [
+       155,
+       155
+      ]
+     ]
+    },
+    "Scheherazade New": {
+     "ink_identical": 300,
+     "advance_identical": 300,
+     "errors": 0,
+     "notdef_pairs": 0,
+     "examples": []
+    },
+    "Amiri Quran": {
+     "ink_identical": 0,
+     "advance_identical": 0,
+     "errors": 300,
+     "notdef_pairs": 0,
+     "examples": [],
+     "error": "Cannot read properties of null (reading 'xCoordinate')"
+    },
+    "KFGQPC Uthmanic Hafs": {
+     "ink_identical": 0,
+     "advance_identical": 0,
+     "errors": 0,
+     "notdef_pairs": 0,
+     "examples": [
+      [
+       106,
+       106
+      ],
+      [
+       36,
+       36
+      ],
+      [
+       279,
+       279
+      ]
+     ]
+    }
+   }
+  },
+  "single_P3": {
+   "pairs": 300,
+   "fonts": {
+    "Noto Naskh Arabic": {
+     "ink_identical": 300,
+     "advance_identical": 300,
+     "errors": 0,
+     "notdef_pairs": 0,
+     "examples": []
+    },
+    "Amiri": {
+     "ink_identical": 300,
+     "advance_identical": 300,
+     "errors": 0,
+     "notdef_pairs": 0,
+     "examples": []
+    },
+    "Scheherazade New": {
+     "ink_identical": 300,
+     "advance_identical": 300,
+     "errors": 0,
+     "notdef_pairs": 0,
+     "examples": []
+    },
+    "Amiri Quran": {
+     "ink_identical": 0,
+     "advance_identical": 0,
+     "errors": 300,
+     "notdef_pairs": 0,
+     "examples": [],
+     "error": "Cannot read properties of null (reading 'xCoordinate')"
+    },
+    "KFGQPC Uthmanic Hafs": {
+     "ink_identical": 0,
+     "advance_identical": 0,
+     "errors": 0,
+     "notdef_pairs": 0,
+     "examples": [
+      [
+       78,
+       78
+      ],
+      [
+       44,
+       44
+      ],
+      [
+       261,
+       261
+      ]
+     ]
+    }
+   }
+  },
+  "single_P4": {
+   "pairs": 300,
+   "fonts": {
+    "Noto Naskh Arabic": {
+     "ink_identical": 43,
+     "advance_identical": 300,
+     "errors": 0,
+     "notdef_pairs": 0,
+     "examples": [
+      [
+       114,
+       114
+      ],
+      [
+       73,
+       73
+      ],
+      [
+       137,
+       137
+      ]
+     ]
+    },
+    "Amiri": {
+     "ink_identical": 46,
+     "advance_identical": 273,
+     "errors": 0,
+     "notdef_pairs": 0,
+     "examples": [
+      [
+       114,
+       114
+      ],
+      [
+       73,
+       73
+      ],
+      [
+       137,
+       137
+      ]
+     ]
+    },
+    "Scheherazade New": {
+     "ink_identical": 247,
+     "advance_identical": 300,
+     "errors": 0,
+     "notdef_pairs": 0,
+     "examples": [
+      [
+       73,
+       73
+      ],
+      [
+       57,
+       57
+      ],
+      [
+       133,
+       133
+      ]
+     ]
+    },
+    "Amiri Quran": {
+     "ink_identical": 0,
+     "advance_identical": 0,
+     "errors": 300,
+     "notdef_pairs": 0,
+     "examples": [],
+     "error": "Cannot read properties of null (reading 'xCoordinate')"
+    },
+    "KFGQPC Uthmanic Hafs": {
+     "ink_identical": 39,
+     "advance_identical": 235,
+     "errors": 0,
+     "notdef_pairs": 0,
+     "examples": [
+      [
+       114,
+       114
+      ],
+      [
+       73,
+       73
+      ],
+      [
+       137,
+       137
+      ]
+     ]
+    }
+   }
+  },
+  "compensated": {
+   "pairs": 300,
+   "fonts": {
+    "Noto Naskh Arabic": {
+     "ink_identical": 0,
+     "advance_identical": 300,
+     "errors": 0,
+     "notdef_pairs": 0,
+     "examples": [
+      [
+       419,
+       419
+      ],
+      [
+       392,
+       392
+      ],
+      [
+       298,
+       298
+      ]
+     ]
+    },
+    "Amiri": {
+     "ink_identical": 0,
+     "advance_identical": 119,
+     "errors": 0,
+     "notdef_pairs": 0,
+     "examples": [
+      [
+       419,
+       419
+      ],
+      [
+       392,
+       392
+      ],
+      [
+       298,
+       298
+      ]
+     ]
+    },
+    "Scheherazade New": {
+     "ink_identical": 34,
+     "advance_identical": 192,
+     "errors": 0,
+     "notdef_pairs": 0,
+     "examples": [
+      [
+       419,
+       419
+      ],
+      [
+       392,
+       392
+      ],
+      [
+       298,
+       298
+      ]
+     ]
+    },
+    "Amiri Quran": {
+     "ink_identical": 0,
+     "advance_identical": 0,
+     "errors": 300,
+     "notdef_pairs": 0,
+     "examples": [],
+     "error": "Cannot read properties of null (reading 'xCoordinate')"
+    },
+    "KFGQPC Uthmanic Hafs": {
+     "ink_identical": 0,
+     "advance_identical": 0,
+     "errors": 0,
+     "notdef_pairs": 0,
+     "examples": [
+      [
+       419,
+       419
+      ],
+      [
+       392,
+       392
+      ],
+      [
+       298,
+       298
+      ]
+     ]
+    }
+   }
+  },
+  "suffix": {
+   "pairs": 300,
+   "fonts": {
+    "Noto Naskh Arabic": {
+     "ink_identical": 300,
+     "advance_identical": 300,
+     "errors": 0,
+     "notdef_pairs": 0,
+     "examples": []
+    },
+    "Amiri": {
+     "ink_identical": 300,
+     "advance_identical": 300,
+     "errors": 0,
+     "notdef_pairs": 0,
+     "examples": []
+    },
+    "Scheherazade New": {
+     "ink_identical": 300,
+     "advance_identical": 300,
+     "errors": 0,
+     "notdef_pairs": 0,
+     "examples": []
+    },
+    "Amiri Quran": {
+     "ink_identical": 0,
+     "advance_identical": 0,
+     "errors": 300,
+     "notdef_pairs": 0,
+     "examples": [],
+     "error": "Cannot read properties of null (reading 'xCoordinate')"
+    },
+    "KFGQPC Uthmanic Hafs": {
+     "ink_identical": 300,
+     "advance_identical": 300,
+     "errors": 0,
+     "notdef_pairs": 0,
+     "examples": []
+    }
+   }
+  }
+ },
+ "nfc_shadda_fatha_words": 3013
+}

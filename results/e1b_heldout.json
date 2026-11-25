@@ -1,0 +1,43 @@
+{
+ "n": 1000,
+ "dicp_pool": 396,
+ "sub_pool": 424,
+ "sub_letters": 37,
+ "H1": {
+  "old": {
+   "U+D": 683,
+   "U": 304,
+   "U+L": 13
+  },
+  "new": {
+   "U": 1000
+  },
+  "visible": {
+   "false": 881,
+   "true": 119
+  },
+  "cross": {
+   "U|invisible": 881,
+   "U|visible": 119
+  }
+ },
+ "H2": {
+  "old": {
+   "U+L": 999,
+   "U+D": 1
+  },
+  "new": {
+   "U": 961,
+   "U+L": 39
+  },
+  "visible": {
+   "true": 943,
+   "false": 57
+  },
+  "cross": {
+   "U|visible": 904,
+   "U+L|visible": 39,
+   "U|invisible": 57
+  }
+ }
+}

@@ -1,0 +1,147 @@
+visual pairs {'P1': {'Noto Naskh Arabic': 1.0, 'Amiri': 1.0, 'Scheherazade New': 0.9466666666666667, 'Amiri Quran': 1.0, 'KFGQPC Uthmanic Hafs': 0.0}, 'P2': {'Noto Naskh Arabic': 1.0, 'Amiri': 0.92, 'Scheherazade New': 1.0, 'Amiri Quran': 0.0, 'KFGQPC Uthmanic Hafs': 0.0}, 'P3': {'Noto Naskh Arabic': 1.0, 'Amiri': 1.0, 'Scheherazade New': 1.0, 'Amiri Quran': 1.0, 'KFGQPC Uthmanic Hafs': 0.0}, 'P4': {'Noto Naskh Arabic': 1.0, 'Amiri': 1.0, 'Scheherazade New': 1.0, 'Amiri Quran': 1.0, 'KFGQPC Uthmanic Hafs': 1.0}}
+active rules ['P1', 'P2', 'P3'] reorder True
+{'active_rules': ['P1', 'P2', 'P3'], 'reorder': True, 'full_rank_32_homoglyph_only': 7, 'verses': 6236, 'full_rank_32': 121, 'share_full_rank': 0.019403463758819756, 'chars_in_full_rank_verses': 53005, 'chars_total': 695149, 'positions_median': 8.0, 'positions_mean': 10.176074406670942, 'positions_max': 115}
+NFC Noto Naskh Arabic {"n":5720,"ink":1702,"adv":5720,"err":0,"notdef":0}
+NFC Amiri {"n":5720,"ink":912,"adv":4763,"err":0,"notdef":0}
+NFC Scheherazade New {"n":5720,"ink":5683,"adv":5720,"err":0,"notdef":0}
+NFC Amiri Quran {"n":5720,"ink":0,"adv":0,"err":5720,"notdef":0}
+NFC KFGQPC Uthmanic Hafs {"n":5720,"ink":925,"adv":4730,"err":0,"notdef":0}
+NFD Noto Naskh Arabic {"n":8167,"ink":938,"adv":7855,"err":0,"notdef":0}
+NFD Amiri {"n":8167,"ink":825,"adv":5245,"err":0,"notdef":0}
+NFD Scheherazade New {"n":8167,"ink":6930,"adv":8102,"err":0,"notdef":0}
+NFD Amiri Quran {"n":8167,"ink":0,"adv":5,"err":8162,"notdef":0}
+NFD KFGQPC Uthmanic Hafs {"n":8167,"ink":830,"adv":4240,"err":0,"notdef":0}
+single_P1 Noto Naskh Arabic {"n":300,"ink":300,"adv":300,"err":0,"notdef":0}
+single_P1 Amiri {"n":300,"ink":300,"adv":300,"err":0,"notdef":0}
+single_P1 Scheherazade New {"n":300,"ink":283,"adv":283,"err":0,"notdef":0}
+single_P1 Amiri Quran {"n":300,"ink":0,"adv":0,"err":300,"notdef":0}
+single_P1 KFGQPC Uthmanic Hafs {"n":300,"ink":0,"adv":0,"err":0,"notdef":0}
+single_P2 Noto Naskh Arabic {"n":300,"ink":300,"adv":300,"err":0,"notdef":0}
+single_P2 Amiri {"n":300,"ink":276,"adv":276,"err":0,"notdef":0}
+single_P2 Scheherazade New {"n":300,"ink":300,"adv":300,"err":0,"notdef":0}
+single_P2 Amiri Quran {"n":300,"ink":0,"adv":0,"err":300,"notdef":0}
+single_P2 KFGQPC Uthmanic Hafs {"n":300,"ink":0,"adv":0,"err":0,"notdef":0}
+single_P3 Noto Naskh Arabic {"n":300,"ink":300,"adv":300,"err":0,"notdef":0}
+single_P3 Amiri {"n":300,"ink":300,"adv":300,"err":0,"notdef":0}
+single_P3 Scheherazade New {"n":300,"ink":300,"adv":300,"err":0,"notdef":0}
+single_P3 Amiri Quran {"n":300,"ink":0,"adv":0,"err":300,"notdef":0}
+single_P3 KFGQPC Uthmanic Hafs {"n":300,"ink":0,"adv":0,"err":0,"notdef":0}
+single_P4 Noto Naskh Arabic {"n":300,"ink":43,"adv":300,"err":0,"notdef":0}
+single_P4 Amiri {"n":300,"ink":46,"adv":273,"err":0,"notdef":0}
+single_P4 Scheherazade New {"n":300,"ink":247,"adv":300,"err":0,"notdef":0}
+single_P4 Amiri Quran {"n":300,"ink":0,"adv":0,"err":300,"notdef":0}
+single_P4 KFGQPC Uthmanic Hafs {"n":300,"ink":39,"adv":235,"err":0,"notdef":0}
+compensated Noto Naskh Arabic {"n":300,"ink":0,"adv":300,"err":0,"notdef":0}
+compensated Amiri {"n":300,"ink":0,"adv":119,"err":0,"notdef":0}
+compensated Scheherazade New {"n":300,"ink":34,"adv":192,"err":0,"notdef":0}
+compensated Amiri Quran {"n":300,"ink":0,"adv":0,"err":300,"notdef":0}
+compensated KFGQPC Uthmanic Hafs {"n":300,"ink":0,"adv":0,"err":0,"notdef":0}
+suffix Noto Naskh Arabic {"n":300,"ink":300,"adv":300,"err":0,"notdef":0}
+suffix Amiri {"n":300,"ink":300,"adv":300,"err":0,"notdef":0}
+suffix Scheherazade New {"n":300,"ink":300,"adv":300,"err":0,"notdef":0}
+suffix Amiri Quran {"n":300,"ink":0,"adv":0,"err":300,"notdef":0}
+suffix KFGQPC Uthmanic Hafs {"n":300,"ink":300,"adv":300,"err":0,"notdef":0}
+engine2 raster: {'NFC|Noto Naskh Arabic': {'sampled': 40, 'pixel_different': 40, 'max_pixels_changed': 143}, 'NFC|Amiri': {'sampled': 40, 'pixel_different': 40, 'max_pixels_changed': 2162}, 'NFC|Scheherazade New': {'sampled': 37, 'pixel_different': 37, 'max_pixels_changed': 276}, 'NFC|KFGQPC Uthmanic Hafs': {'sampled': 40, 'pixel_different': 40, 'max_pixels_changed': 1102}, 'NFD|Noto Naskh Arabic': {'sampled': 40, 'pixel_different': 40, 'max_pixels_changed': 1952}, 'NFD|Amiri': {'sampled': 40, 'pixel_different': 40, 'max_pixels_changed': 1259}, 'NFD|Scheherazade New': {'sampled': 40, 'pixel_different': 40, 'max_pixels_changed': 1196}, 'NFD|KFGQPC Uthmanic Hafs': {'sampled': 40, 'pixel_different': 40, 'max_pixels_changed': 971}, 'single_P1|Scheherazade New': {'sampled': 17, 'pixel_different': 17, 'max_pixels_changed': 38551}, 'single_P1|KFGQPC Uthmanic Hafs': {'sampled': 40, 'pixel_different': 40, 'max_pixels_changed': 21259}, 'single_P2|Amiri': {'sampled': 25, 'pixel_different': 25, 'max_pixels_changed': 19891}, 'single_P2|KFGQPC Uthmanic Hafs': {'sampled': 40, 'pixel_different': 40, 'max_pixels_changed': 36940}, 'single_P3|KFGQPC Uthmanic Hafs': {'sampled': 40, 'pixel_different': 40, 'max_pixels_changed': 48755}, 'single_P4|Noto Naskh Arabic': {'sampled': 40, 'pixel_different': 40, 'max_pixels_changed': 92}, 'single_P4|Amiri': {'sampled': 40, 'pixel_different': 40, 'max_pixels_changed': 509}, 'single_P4|Scheherazade New': {'sampled': 40, 'pixel_different': 40, 'max_pixels_changed': 204}, 'single_P4|KFGQPC Uthmanic Hafs': {'sampled': 40, 'pixel_different': 40, 'max_pixels_changed': 16288}, 'compensated|Noto Naskh Arabic': {'sampled': 40, 'pixel_different': 40, 'max_pixels_changed': 767}, 'compensated|Amiri': {'sampled': 40, 'pixel_different': 40, 'max_pixels_changed': 39870}, 'compensated|Scheherazade New': {'sampled': 40, 'pixel_different': 40, 'max_pixels_changed': 51190}, 'compensated|KFGQPC Uthmanic Hafs': {'sampled': 40, 'pixel_different': 40, 'max_pixels_changed': 55217}}
+{
+ "visual_pairs": {
+  "P1": {
+   "Noto Naskh Arabic": 1.0,
+   "Amiri": 1.0,
+   "Scheherazade New": 0.9466666666666667,
+   "Amiri Quran": 1.0,
+   "KFGQPC Uthmanic Hafs": 0.0
+  },
+  "P2": {
+   "Noto Naskh Arabic": 1.0,
+   "Amiri": 0.92,
+   "Scheherazade New": 1.0,
+   "Amiri Quran": 0.0,
+   "KFGQPC Uthmanic Hafs": 0.0
+  },
+  "P3": {
+   "Noto Naskh Arabic": 1.0,
+   "Amiri": 1.0,
+   "Scheherazade New": 1.0,
+   "Amiri Quran": 1.0,
+   "KFGQPC Uthmanic Hafs": 0.0
+  },
+  "P4": {
+   "Noto Naskh Arabic": 1.0,
+   "Amiri": 1.0,
+   "Scheherazade New": 1.0,
+   "Amiri Quran": 1.0,
+   "KFGQPC Uthmanic Hafs": 1.0
+  }
+ },
+ "select_font": "Noto Naskh Arabic",
+ "feasibility": {
+  "active_rules": [
+   "P1",
+   "P2",
+   "P3"
+  ],
+  "reorder": true,
+  "full_rank_32_homoglyph_only": 7,
+  "verses": 6236,
+  "full_rank_32": 121,
+  "share_full_rank": 0.019403463758819756,
+  "chars_in_full_rank_verses": 53005,
+  "chars_total": 695149,
+  "positions_median": 8.0,
+  "positions_mean": 10.176074406670942,
+  "positions_max": 115
+ },
+ "eligible_verses": 121,
+ "attacks": {
+  "attempts": 1000,
+  "attempts_letter": 500,
+  "crc_collision": 995,
+  "sha256_detects": 995,
+  "proposed_detects": 995,
+  "class_letter_U+L": 499,
+  "attempts_vowel": 500,
+  "class_vowel_U+D": 495,
+  "class_letter_U+D": 1
+ },
+ "swaps_median": 16.0,
+ "swaps_mean": 16.08542713567839,
+ "swaps_max": 25,
+ "visual_forgeries": {
+  "Noto Naskh Arabic": {
+   "rendered": 300,
+   "pixel_identical": 300
+  },
+  "Amiri": {
+   "rendered": 300,
+   "pixel_identical": 260
+  },
+  "Scheherazade New": {
+   "rendered": 300,
+   "pixel_identical": 193
+  },
+  "Amiri Quran": {
+   "rendered": 300,
+   "pixel_identical": 46
+  },
+  "KFGQPC Uthmanic Hafs": {
+   "rendered": 300,
+   "pixel_identical": 0
+  }
+ },
+ "suffix": {
+  "attempts": 300,
+  "crc_collision": 300,
+  "proposed_detects": 300,
+  "class_U+D": 300,
+  "skipped_no_vowel": 2
+ },
+ "suffix_pixel_identical": {
+  "Noto Naskh Arabic": 300,
+  "Amiri": 300,
+  "Scheherazade New": 300,
+  "Amiri Quran": 300,
+  "KFGQPC Uthmanic Hafs": 300
+ },
+ "seed": 7,
+ "n_render": 300
+}

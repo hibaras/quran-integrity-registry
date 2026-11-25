@@ -1,0 +1,107 @@
+{
+ "NFC|Noto Naskh Arabic": {
+  "sampled": 40,
+  "pixel_different": 40,
+  "max_pixels_changed": 143
+ },
+ "NFC|Amiri": {
+  "sampled": 40,
+  "pixel_different": 40,
+  "max_pixels_changed": 2162
+ },
+ "NFC|Scheherazade New": {
+  "sampled": 37,
+  "pixel_different": 37,
+  "max_pixels_changed": 276
+ },
+ "NFC|KFGQPC Uthmanic Hafs": {
+  "sampled": 40,
+  "pixel_different": 40,
+  "max_pixels_changed": 1102
+ },
+ "NFD|Noto Naskh Arabic": {
+  "sampled": 40,
+  "pixel_different": 40,
+  "max_pixels_changed": 1952
+ },
+ "NFD|Amiri": {
+  "sampled": 40,
+  "pixel_different": 40,
+  "max_pixels_changed": 1259
+ },
+ "NFD|Scheherazade New": {
+  "sampled": 40,
+  "pixel_different": 40,
+  "max_pixels_changed": 1196
+ },
+ "NFD|KFGQPC Uthmanic Hafs": {
+  "sampled": 40,
+  "pixel_different": 40,
+  "max_pixels_changed": 971
+ },
+ "single_P1|Scheherazade New": {
+  "sampled": 17,
+  "pixel_different": 17,
+  "max_pixels_changed": 38551
+ },
+ "single_P1|KFGQPC Uthmanic Hafs": {
+  "sampled": 40,
+  "pixel_different": 40,
+  "max_pixels_changed": 21259
+ },
+ "single_P2|Amiri": {
+  "sampled": 25,
+  "pixel_different": 25,
+  "max_pixels_changed": 19891
+ },
+ "single_P2|KFGQPC Uthmanic Hafs": {
+  "sampled": 40,
+  "pixel_different": 40,
+  "max_pixels_changed": 36940
+ },
+ "single_P3|KFGQPC Uthmanic Hafs": {
+  "sampled": 40,
+  "pixel_different": 40,
+  "max_pixels_changed": 48755
+ },
+ "single_P4|Noto Naskh Arabic": {
+  "sampled": 40,
+  "pixel_different": 40,
+  "max_pixels_changed": 92
+ },
+ "single_P4|Amiri": {
+  "sampled": 40,
+  "pixel_different": 40,
+  "max_pixels_changed": 509
+ },
+ "single_P4|Scheherazade New": {
+  "sampled": 40,
+  "pixel_different": 40,
+  "max_pixels_changed": 204
+ },
+ "single_P4|KFGQPC Uthmanic Hafs": {
+  "sampled": 40,
+  "pixel_different": 40,
+  "max_pixels_changed": 16288
+ },
+ "compensated|Noto Naskh Arabic": {
+  "sampled": 40,
+  "pixel_different": 40,
+  "max_pixels_changed": 767
+ },
+ "compensated|Amiri": {
+  "sampled": 40,
+  "pixel_different": 40,
+  "max_pixels_changed": 39870
+ },
+ "compensated|Scheherazade New": {
+  "sampled": 40,
+  "pixel_different": 40,
+  "max_pixels_changed": 51190
+ },
+ "compensated|KFGQPC Uthmanic Hafs": {
+  "sampled": 40,
+  "pixel_different": 40,
+  "max_pixels_changed": 55217
+ }
+}

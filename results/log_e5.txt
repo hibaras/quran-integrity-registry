@@ -1,0 +1,198 @@
+{
+ "platform": {
+  "python": "3.13.18",
+  "machine": "x86_64",
+  "processor": "Intel(R) Xeon(R) Processor @ 2.10GHz (2 vCPU)"
+ },
+ "canonicalise_all": {
+  "median_ms": 41.702622999991945,
+  "q1_ms": 40.637515499952315,
+  "q3_ms": 48.170160249924265
+ },
+ "table": {
+  "crc32": {
+   "median_ms": 0.537024999971436,
+   "q1_ms": 0.5076264999388513,
+   "q3_ms": 0.5733099999929436
+  },
+  "sha256": {
+   "median_ms": 2.384206999977323,
+   "q1_ms": 2.333501499947488,
+   "q3_ms": 2.4232080000388123
+  },
+  "sha3_256": {
+   "median_ms": 5.826836499977617,
+   "q1_ms": 5.267549749873979,
+   "q3_ms": 7.806203750021723
+  },
+  "blake2b256": {
+   "median_ms": 3.0447070001855536,
+   "q1_ms": 3.0242014999544153,
+   "q3_ms": 3.0770079999911104
+  },
+  "blake3": {
+   "median_ms": 2.678810499901374,
+   "q1_ms": 2.6542542499896626,
+   "q3_ms": 2.755391249877448
+  }
+ },
+ "registry_build": {
+  "sha256": {
+   "median_ms": 120.72183899988431,
+   "q1_ms": 119.62981699997499,
+   "q3_ms": 121.88934899995729
+  },
+  "sha3_256": {
+   "median_ms": 130.66276600000037,
+   "q1_ms": 128.1564992499966,
+   "q3_ms": 133.76807825000014
+  },
+  "blake2b256": {
+   "median_ms": 122.11804999992637,
+   "q1_ms": 121.71044749999282,
+   "q3_ms": 123.53189000015163
+  },
+  "blake3": {
+   "median_ms": 122.53430650002883,
+   "q1_ms": 122.13120950002576,
+   "q3_ms": 123.02209474995607
+  }
+ },
+ "ed25519": {
+  "sign": {
+   "median_ms": 0.026650000108929817,
+   "q1_ms": 0.026574999992590165,
+   "q3_ms": 0.026802499917266687
+  },
+  "verify": {
+   "median_ms": 0.08617400010280107,
+   "q1_ms": 0.08572774999038302,
+   "q3_ms": 0.08749099993110576
+  },
+  "signature_bytes": 64,
+  "statement_bytes": 101
+ },
+ "proofs": {
+  "n": 6348,
+  "all_valid": true,
+  "gen_us_per_verse": 6.127436042857529,
+  "verify_us_per_verse": 13.558388783868065,
+  "bytes_min": 228,
+  "bytes_mean": 471.2211720226843,
+  "bytes_max": 548
+ },
+ "storage_bytes": {
+  "crc32_table": 25392,
+  "sha256_table": 203136,
+  "signed_statement": 165,
+  "edition_utf8": 1327281,
+  "items": 6348
+ },
+ "full_verify_intact": {
+  "median_ms": 50.9658274999083,
+  "q1_ms": 50.83226475005631,
+  "q3_ms": 51.06677274989124
+ },
+ "detection_only_bytes": 165,
+ "localisation": [
+  {
+   "k": 1,
+   "hashes_mean": 26.84,
+   "hashes_max": 32,
+   "bytes_mean": 1231.17,
+   "bytes_max": 2225,
+   "exact": 1.0,
+   "runs": 100,
+   "table_hashes": 6348,
+   "table_bytes": 203136
+  },
+  {
+   "k": 2,
+   "hashes_mean": 49.36,
+   "hashes_max": 56,
+   "bytes_mean": 2181.41,
+   "bytes_max": 3106,
+   "exact": 1.0,
+   "runs": 100,
+   "table_hashes": 6348,
+   "table_bytes": 203136
+  },
+  {
+   "k": 4,
+   "hashes_mean": 89.4,
+   "hashes_max": 100,
+   "bytes_mean": 3939.25,
+   "bytes_max": 4880,
+   "exact": 1.0,
+   "runs": 100,
+   "table_hashes": 6348,
+   "table_bytes": 203136
+  },
+  {
+   "k": 8,
+   "hashes_mean": 162,
+   "hashes_max": 180,
+   "bytes_mean": 7189.87,
+   "bytes_max": 8297,
+   "exact": 1.0,
+   "runs": 100,
+   "table_hashes": 6348,
+   "table_bytes": 203136
+  },
+  {
+   "k": 16,
+   "hashes_mean": 290.96,
+   "hashes_max": 320,
+   "bytes_mean": 13251.34,
+   "bytes_max": 14965,
+   "exact": 1.0,
+   "runs": 100,
+   "table_hashes": 6348,
+   "table_bytes": 203136
+  },
+  {
+   "k": 32,
+   "hashes_mean": 514,
+   "hashes_max": 562,
+   "bytes_mean": 24096.5,
+   "bytes_max": 27273,
+   "exact": 1.0,
+   "runs": 100,
+   "table_hashes": 6348,
+   "table_bytes": 203136
+  },
+  {
+   "k": 64,
+   "hashes_mean": 891.38,
+   "hashes_max": 940,
+   "bytes_mean": 43775.14,
+   "bytes_max": 47797,
+   "exact": 1.0,
+   "runs": 100,
+   "table_hashes": 6348,
+   "table_bytes": 203136
+  },
+  {
+   "k": 128,
+   "hashes_mean": 1516.86,
+   "hashes_max": 1588,
+   "bytes_mean": 78002.64,
+   "bytes_max": 83551,
+   "exact": 1.0,
+   "runs": 100,
+   "table_hashes": 6348,
+   "table_bytes": 203136
+  },
+  {
+   "k": 256,
+   "hashes_mean": 2519.42,
+   "hashes_max": 2600,
+   "bytes_mean": 137882.92,
+   "bytes_max": 145346,
+   "exact": 1.0,
+   "runs": 100,
+   "table_hashes": 6348,
+   "table_bytes": 203136
+  }
+ ]
+}

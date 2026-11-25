@@ -1,0 +1,10 @@
+NFC Amiri {'words_identical': 5720, 'items_identical': 5860} of 5720 5860
+NFC Noto Naskh Arabic {'words_identical': 5720, 'items_identical': 5860} of 5720 5860
+NFC Scheherazade New {'words_identical': 5720, 'items_identical': 5860} of 5720 5860
+NFC Amiri Quran {'words_identical': 5720, 'items_identical': 5860} of 5720 5860
+NFC KFGQPC Uthmanic Hafs {'words_identical': 5720, 'items_identical': 5860} of 5720 5860
+NFD Amiri {'words_identical': 8167, 'items_identical': 6113} of 8167 6113
+NFD Noto Naskh Arabic {'words_identical': 8167, 'items_identical': 6113} of 8167 6113
+NFD Scheherazade New {'words_identical': 8167, 'items_identical': 6113} of 8167 6113
+NFD Amiri Quran {'words_identical': 8167, 'items_identical': 6113} of 8167 6113
+NFD KFGQPC Uthmanic Hafs {'words_identical': 8167, 'items_identical': 6113} of 8167 6113

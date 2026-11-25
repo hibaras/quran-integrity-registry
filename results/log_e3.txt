@@ -1,0 +1,100 @@
+{'pair': 'Tanzil Uthmani vs KFGQPC Hafs', 'verses': 6236, 'raw': 6158, 'canonical': 6158, 'sigma': 2390, 'sigma_star': 4}
+{'pair': 'Tanzil Uthmani vs Tanzil Uthmani-min', 'verses': 6236, 'raw': 6232, 'canonical': 6232, 'sigma': 20, 'sigma_star': 1}
+{'pair': 'Tanzil Simple vs Tanzil Simple-clean', 'verses': 6236, 'raw': 6216, 'canonical': 6216, 'sigma': 0, 'sigma_star': 0}
+{'pair': 'Tanzil Uthmani vs Tanzil Simple', 'verses': 6236, 'raw': 5892, 'canonical': 5892, 'sigma': 4608, 'sigma_star': 3985}
+qpc-hafs {'flagged': 6270, 'items': 6236, 'labels': {'U+D': 3748, 'U+L': 2337, 'S-del': 112, 'L': 53, 'D': 20}, 'mismatch': True, 'bytes': 1341428}
+uthmani-min {'flagged': 6344, 'items': 6348, 'labels': {'D': 6324, 'L': 20}, 'mismatch': False, 'bytes': 1731734}
+simple {'flagged': 6004, 'items': 6348, 'labels': {'L': 4608, 'D': 1396}, 'mismatch': False, 'bytes': 1705972}
+simple-clean {'flagged': 6347, 'items': 6348, 'labels': {'L': 4608, 'D': 1739}, 'mismatch': False, 'bytes': 1731824}
+{
+ "residual_uthmani_vs_qpc": {
+  "ids": [
+   "2:72",
+   "15:7",
+   "27:20",
+   "36:22"
+  ],
+  "ops": {
+   "2:72": [
+    [
+     "insert",
+     "",
+     "U+0621"
+    ]
+   ],
+   "15:7": [
+    [
+     "delete",
+     "U+0020",
+     ""
+    ]
+   ],
+   "27:20": [
+    [
+     "delete",
+     "U+0020",
+     ""
+    ]
+   ],
+   "36:22": [
+    [
+     "delete",
+     "U+0020",
+     ""
+    ]
+   ]
+  }
+ },
+ "hamza_as_letter": {
+  "uthmani_vs_qpc_sigma_star": 275
+ },
+ "table2": {
+  "Tanzil Uthmani": {
+   "code_points": 699519,
+   "utf8_bytes": 1327393,
+   "distinct": 62,
+   "distinct_after_nfc": 63,
+   "verses_changed_by_nfc": 5748,
+   "basmala_headers": 112,
+   "basmala_changed_by_nfc": 112
+  },
+  "Tanzil Uthmani-min": {
+   "code_points": 600484,
+   "utf8_bytes": 1129323,
+   "distinct": 56,
+   "distinct_after_nfc": 56,
+   "verses_changed_by_nfc": 5019,
+   "basmala_headers": 112,
+   "basmala_changed_by_nfc": 112
+  },
+  "Tanzil Simple": {
+   "code_points": 683309,
+   "utf8_bytes": 1294606,
+   "distinct": 46,
+   "distinct_after_nfc": 46,
+   "verses_changed_by_nfc": 5620,
+   "basmala_headers": 112,
+   "basmala_changed_by_nfc": 112
+  },
+  "Tanzil Simple-clean": {
+   "code_points": 404849,
+   "utf8_bytes": 737686,
+   "distinct": 37,
+   "distinct_after_nfc": 37,
+   "verses_changed_by_nfc": 0,
+   "basmala_headers": 112,
+   "basmala_changed_by_nfc": 0
+  },
+  "KFGQPC Hafs": {
+   "code_points": 699815,
+   "utf8_bytes": 1328237,
+   "distinct": 72,
+   "distinct_after_nfc": 73,
+   "verses_changed_by_nfc": 5722,
+   "basmala_headers": 0,
+   "basmala_changed_by_nfc": 0
+  }
+ }
+}
+{"sigma_ids": ["2:26", "2:72", "2:258", "2:259", "3:156", "6:34", "7:127", "7:158", "9:116", "10:56", "12:101", "15:23", "23:80", "28:4", "30:24", "33:53", "40:68", "44:8", "50:43", "57:2"], "sigma_star_ids": ["2:72"], "ops": [[["replace", "U+0649", "U+064A"], 21], [["insert", "", "U+0621"], 1]], "sigma_star_ops": {"2:72": [["insert", "", "U+0621"]]}}
+[(['replace', 'U+0649', 'U+064A'], 3690), (['delete', 'U+0020', ''], 3), (['insert', '', 'U+0621'], 1)] ['U+0655 ARABIC HAMZA BELOW', 'U+0656 ARABIC SUBSCRIPT ALEF', 'U+0657 ARABIC INVERTED DAMMA', 'U+065E ARABIC FATHA WITH TWO DOTS', 'U+06D6 ARABIC SMALL HIGH LIGATURE SAD WITH LAM WITH ALEF MAKSURA', 'U+06D7 ARABIC SMALL HIGH LIGATURE QAF WITH LAM WITH ALEF MAKSURA', 'U+06D8 ARABIC SMALL HIGH MEEM INITIAL FORM', 'U+06DA ARABIC SMALL HIGH JEEM', 'U+06DB ARABIC SMALL HIGH THREE DOTS', 'U+06DE ARABIC START OF RUB EL HIZB', 'U+06E1 ARABIC SMALL HIGH DOTLESS HEAD OF KHAH', 'U+06E4 ARABIC SMALL HIGH MADDA', 'U+06E9 ARABIC PLACE OF SAJDAH']

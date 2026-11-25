@@ -1,0 +1,1202 @@
+{
+ "n_trials": 1000,
+ "seed": 2026,
+ "rows": [
+  {
+   "operator": "Letter substitution",
+   "family": "Letter/word",
+   "method": "B1",
+   "trials": 1000,
+   "detect": 1.0,
+   "exact_loc": null,
+   "class_acc": null
+  },
+  {
+   "operator": "Letter substitution",
+   "family": "Letter/word",
+   "method": "B2",
+   "trials": 1000,
+   "detect": 1.0,
+   "exact_loc": 1.0,
+   "class_acc": null
+  },
+  {
+   "operator": "Letter substitution",
+   "family": "Letter/word",
+   "method": "B3",
+   "trials": 1000,
+   "detect": 1.0,
+   "exact_loc": 1.0,
+   "class_acc": null
+  },
+  {
+   "operator": "Letter substitution",
+   "family": "Letter/word",
+   "method": "B4",
+   "trials": 1000,
+   "detect": 1.0,
+   "exact_loc": 1.0,
+   "class_acc": null
+  },
+  {
+   "operator": "Letter substitution",
+   "family": "Letter/word",
+   "method": "B3n",
+   "trials": 1000,
+   "detect": 1.0,
+   "exact_loc": 1.0,
+   "class_acc": null
+  },
+  {
+   "operator": "Letter substitution",
+   "family": "Letter/word",
+   "method": "B3n+A",
+   "trials": 1000,
+   "detect": 1.0,
+   "exact_loc": 1.0,
+   "class_acc": null
+  },
+  {
+   "operator": "Letter substitution",
+   "family": "Letter/word",
+   "method": "Proposed",
+   "trials": 1000,
+   "detect": 1.0,
+   "exact_loc": 1.0,
+   "class_acc": 0.993
+  },
+  {
+   "operator": "Letter deletion",
+   "family": "Letter/word",
+   "method": "B1",
+   "trials": 1000,
+   "detect": 1.0,
+   "exact_loc": null,
+   "class_acc": null
+  },
+  {
+   "operator": "Letter deletion",
+   "family": "Letter/word",
+   "method": "B2",
+   "trials": 1000,
+   "detect": 1.0,
+   "exact_loc": 1.0,
+   "class_acc": null
+  },
+  {
+   "operator": "Letter deletion",
+   "family": "Letter/word",
+   "method": "B3",
+   "trials": 1000,
+   "detect": 1.0,
+   "exact_loc": 1.0,
+   "class_acc": null
+  },
+  {
+   "operator": "Letter deletion",
+   "family": "Letter/word",
+   "method": "B4",
+   "trials": 1000,
+   "detect": 1.0,
+   "exact_loc": 1.0,
+   "class_acc": null
+  },
+  {
+   "operator": "Letter deletion",
+   "family": "Letter/word",
+   "method": "B3n",
+   "trials": 1000,
+   "detect": 1.0,
+   "exact_loc": 1.0,
+   "class_acc": null
+  },
+  {
+   "operator": "Letter deletion",
+   "family": "Letter/word",
+   "method": "B3n+A",
+   "trials": 1000,
+   "detect": 1.0,
+   "exact_loc": 1.0,
+   "class_acc": null
+  },
+  {
+   "operator": "Letter deletion",
+   "family": "Letter/word",
+   "method": "Proposed",
+   "trials": 1000,
+   "detect": 1.0,
+   "exact_loc": 1.0,
+   "class_acc": 1.0
+  },
+  {
+   "operator": "Letter insertion",
+   "family": "Letter/word",
+   "method": "B1",
+   "trials": 1000,
+   "detect": 1.0,
+   "exact_loc": null,
+   "class_acc": null
+  },
+  {
+   "operator": "Letter insertion",
+   "family": "Letter/word",
+   "method": "B2",
+   "trials": 1000,
+   "detect": 1.0,
+   "exact_loc": 1.0,
+   "class_acc": null
+  },
+  {
+   "operator": "Letter insertion",
+   "family": "Letter/word",
+   "method": "B3",
+   "trials": 1000,
+   "detect": 1.0,
+   "exact_loc": 1.0,
+   "class_acc": null
+  },
+  {
+   "operator": "Letter insertion",
+   "family": "Letter/word",
+   "method": "B4",
+   "trials": 1000,
+   "detect": 1.0,
+   "exact_loc": 1.0,
+   "class_acc": null
+  },
+  {
+   "operator": "Letter insertion",
+   "family": "Letter/word",
+   "method": "B3n",
+   "trials": 1000,
+   "detect": 1.0,
+   "exact_loc": 1.0,
+   "class_acc": null
+  },
+  {
+   "operator": "Letter insertion",
+   "family": "Letter/word",
+   "method": "B3n+A",
+   "trials": 1000,
+   "detect": 1.0,
+   "exact_loc": 1.0,
+   "class_acc": null
+  },
+  {
+   "operator": "Letter insertion",
+   "family": "Letter/word",
+   "method": "Proposed",
+   "trials": 1000,
+   "detect": 1.0,
+   "exact_loc": 1.0,
+   "class_acc": 1.0
+  },
+  {
+   "operator": "Word deletion",
+   "family": "Letter/word",
+   "method": "B1",
+   "trials": 1000,
+   "detect": 1.0,
+   "exact_loc": null,
+   "class_acc": null
+  },
+  {
+   "operator": "Word deletion",
+   "family": "Letter/word",
+   "method": "B2",
+   "trials": 1000,
+   "detect": 1.0,
+   "exact_loc": 1.0,
+   "class_acc": null
+  },
+  {
+   "operator": "Word deletion",
+   "family": "Letter/word",
+   "method": "B3",
+   "trials": 1000,
+   "detect": 1.0,
+   "exact_loc": 1.0,
+   "class_acc": null
+  },
+  {
+   "operator": "Word deletion",
+   "family": "Letter/word",
+   "method": "B4",
+   "trials": 1000,
+   "detect": 1.0,
+   "exact_loc": 1.0,
+   "class_acc": null
+  },
+  {
+   "operator": "Word deletion",
+   "family": "Letter/word",
+   "method": "B3n",
+   "trials": 1000,
+   "detect": 1.0,
+   "exact_loc": 1.0,
+   "class_acc": null
+  },
+  {
+   "operator": "Word deletion",
+   "family": "Letter/word",
+   "method": "B3n+A",
+   "trials": 1000,
+   "detect": 1.0,
+   "exact_loc": 1.0,
+   "class_acc": null
+  },
+  {
+   "operator": "Word deletion",
+   "family": "Letter/word",
+   "method": "Proposed",
+   "trials": 1000,
+   "detect": 1.0,
+   "exact_loc": 1.0,
+   "class_acc": 1.0
+  },
+  {
+   "operator": "Adjacent-word swap",
+   "family": "Letter/word",
+   "method": "B1",
+   "trials": 1000,
+   "detect": 1.0,
+   "exact_loc": null,
+   "class_acc": null
+  },
+  {
+   "operator": "Adjacent-word swap",
+   "family": "Letter/word",
+   "method": "B2",
+   "trials": 1000,
+   "detect": 1.0,
+   "exact_loc": 1.0,
+   "class_acc": null
+  },
+  {
+   "operator": "Adjacent-word swap",
+   "family": "Letter/word",
+   "method": "B3",
+   "trials": 1000,
+   "detect": 1.0,
+   "exact_loc": 1.0,
+   "class_acc": null
+  },
+  {
+   "operator": "Adjacent-word swap",
+   "family": "Letter/word",
+   "method": "B4",
+   "trials": 1000,
+   "detect": 1.0,
+   "exact_loc": 1.0,
+   "class_acc": null
+  },
+  {
+   "operator": "Adjacent-word swap",
+   "family": "Letter/word",
+   "method": "B3n",
+   "trials": 1000,
+   "detect": 1.0,
+   "exact_loc": 1.0,
+   "class_acc": null
+  },
+  {
+   "operator": "Adjacent-word swap",
+   "family": "Letter/word",
+   "method": "B3n+A",
+   "trials": 1000,
+   "detect": 1.0,
+   "exact_loc": 1.0,
+   "class_acc": null
+  },
+  {
+   "operator": "Adjacent-word swap",
+   "family": "Letter/word",
+   "method": "Proposed",
+   "trials": 1000,
+   "detect": 1.0,
+   "exact_loc": 1.0,
+   "class_acc": 0.999
+  },
+  {
+   "operator": "Vowel substitution",
+   "family": "Diacritic",
+   "method": "B1",
+   "trials": 1000,
+   "detect": 1.0,
+   "exact_loc": null,
+   "class_acc": null
+  },
+  {
+   "operator": "Vowel substitution",
+   "family": "Diacritic",
+   "method": "B2",
+   "trials": 1000,
+   "detect": 1.0,
+   "exact_loc": 1.0,
+   "class_acc": null
+  },
+  {
+   "operator": "Vowel substitution",
+   "family": "Diacritic",
+   "method": "B3",
+   "trials": 1000,
+   "detect": 1.0,
+   "exact_loc": 1.0,
+   "class_acc": null
+  },
+  {
+   "operator": "Vowel substitution",
+   "family": "Diacritic",
+   "method": "B4",
+   "trials": 1000,
+   "detect": 1.0,
+   "exact_loc": 1.0,
+   "class_acc": null
+  },
+  {
+   "operator": "Vowel substitution",
+   "family": "Diacritic",
+   "method": "B3n",
+   "trials": 1000,
+   "detect": 1.0,
+   "exact_loc": 1.0,
+   "class_acc": null
+  },
+  {
+   "operator": "Vowel substitution",
+   "family": "Diacritic",
+   "method": "B3n+A",
+   "trials": 1000,
+   "detect": 1.0,
+   "exact_loc": 1.0,
+   "class_acc": null
+  },
+  {
+   "operator": "Vowel substitution",
+   "family": "Diacritic",
+   "method": "Proposed",
+   "trials": 1000,
+   "detect": 1.0,
+   "exact_loc": 1.0,
+   "class_acc": 1.0
+  },
+  {
+   "operator": "Diacritic deletion",
+   "family": "Diacritic",
+   "method": "B1",
+   "trials": 1000,
+   "detect": 1.0,
+   "exact_loc": null,
+   "class_acc": null
+  },
+  {
+   "operator": "Diacritic deletion",
+   "family": "Diacritic",
+   "method": "B2",
+   "trials": 1000,
+   "detect": 1.0,
+   "exact_loc": 1.0,
+   "class_acc": null
+  },
+  {
+   "operator": "Diacritic deletion",
+   "family": "Diacritic",
+   "method": "B3",
+   "trials": 1000,
+   "detect": 1.0,
+   "exact_loc": 1.0,
+   "class_acc": null
+  },
+  {
+   "operator": "Diacritic deletion",
+   "family": "Diacritic",
+   "method": "B4",
+   "trials": 1000,
+   "detect": 1.0,
+   "exact_loc": 1.0,
+   "class_acc": null
+  },
+  {
+   "operator": "Diacritic deletion",
+   "family": "Diacritic",
+   "method": "B3n",
+   "trials": 1000,
+   "detect": 1.0,
+   "exact_loc": 1.0,
+   "class_acc": null
+  },
+  {
+   "operator": "Diacritic deletion",
+   "family": "Diacritic",
+   "method": "B3n+A",
+   "trials": 1000,
+   "detect": 1.0,
+   "exact_loc": 1.0,
+   "class_acc": null
+  },
+  {
+   "operator": "Diacritic deletion",
+   "family": "Diacritic",
+   "method": "Proposed",
+   "trials": 1000,
+   "detect": 1.0,
+   "exact_loc": 1.0,
+   "class_acc": 1.0
+  },
+  {
+   "operator": "Diacritic insertion",
+   "family": "Diacritic",
+   "method": "B1",
+   "trials": 1000,
+   "detect": 1.0,
+   "exact_loc": null,
+   "class_acc": null
+  },
+  {
+   "operator": "Diacritic insertion",
+   "family": "Diacritic",
+   "method": "B2",
+   "trials": 1000,
+   "detect": 1.0,
+   "exact_loc": 1.0,
+   "class_acc": null
+  },
+  {
+   "operator": "Diacritic insertion",
+   "family": "Diacritic",
+   "method": "B3",
+   "trials": 1000,
+   "detect": 1.0,
+   "exact_loc": 1.0,
+   "class_acc": null
+  },
+  {
+   "operator": "Diacritic insertion",
+   "family": "Diacritic",
+   "method": "B4",
+   "trials": 1000,
+   "detect": 1.0,
+   "exact_loc": 1.0,
+   "class_acc": null
+  },
+  {
+   "operator": "Diacritic insertion",
+   "family": "Diacritic",
+   "method": "B3n",
+   "trials": 1000,
+   "detect": 1.0,
+   "exact_loc": 1.0,
+   "class_acc": null
+  },
+  {
+   "operator": "Diacritic insertion",
+   "family": "Diacritic",
+   "method": "B3n+A",
+   "trials": 1000,
+   "detect": 1.0,
+   "exact_loc": 1.0,
+   "class_acc": null
+  },
+  {
+   "operator": "Diacritic insertion",
+   "family": "Diacritic",
+   "method": "Proposed",
+   "trials": 1000,
+   "detect": 1.0,
+   "exact_loc": 1.0,
+   "class_acc": 1.0
+  },
+  {
+   "operator": "Homoglyph substitution",
+   "family": "Unicode",
+   "method": "B1",
+   "trials": 1000,
+   "detect": 1.0,
+   "exact_loc": null,
+   "class_acc": null
+  },
+  {
+   "operator": "Homoglyph substitution",
+   "family": "Unicode",
+   "method": "B2",
+   "trials": 1000,
+   "detect": 1.0,
+   "exact_loc": 1.0,
+   "class_acc": null
+  },
+  {
+   "operator": "Homoglyph substitution",
+   "family": "Unicode",
+   "method": "B3",
+   "trials": 1000,
+   "detect": 1.0,
+   "exact_loc": 1.0,
+   "class_acc": null
+  },
+  {
+   "operator": "Homoglyph substitution",
+   "family": "Unicode",
+   "method": "B4",
+   "trials": 1000,
+   "detect": 1.0,
+   "exact_loc": 1.0,
+   "class_acc": null
+  },
+  {
+   "operator": "Homoglyph substitution",
+   "family": "Unicode",
+   "method": "B3n",
+   "trials": 1000,
+   "detect": 1.0,
+   "exact_loc": 1.0,
+   "class_acc": null
+  },
+  {
+   "operator": "Homoglyph substitution",
+   "family": "Unicode",
+   "method": "B3n+A",
+   "trials": 1000,
+   "detect": 1.0,
+   "exact_loc": 1.0,
+   "class_acc": null
+  },
+  {
+   "operator": "Homoglyph substitution",
+   "family": "Unicode",
+   "method": "Proposed",
+   "trials": 1000,
+   "detect": 1.0,
+   "exact_loc": 1.0,
+   "class_acc": 1.0
+  },
+  {
+   "operator": "Invisible-character insertion",
+   "family": "Unicode",
+   "method": "B1",
+   "trials": 1000,
+   "detect": 1.0,
+   "exact_loc": null,
+   "class_acc": null
+  },
+  {
+   "operator": "Invisible-character insertion",
+   "family": "Unicode",
+   "method": "B2",
+   "trials": 1000,
+   "detect": 1.0,
+   "exact_loc": 1.0,
+   "class_acc": null
+  },
+  {
+   "operator": "Invisible-character insertion",
+   "family": "Unicode",
+   "method": "B3",
+   "trials": 1000,
+   "detect": 1.0,
+   "exact_loc": 1.0,
+   "class_acc": null
+  },
+  {
+   "operator": "Invisible-character insertion",
+   "family": "Unicode",
+   "method": "B4",
+   "trials": 1000,
+   "detect": 1.0,
+   "exact_loc": 1.0,
+   "class_acc": null
+  },
+  {
+   "operator": "Invisible-character insertion",
+   "family": "Unicode",
+   "method": "B3n",
+   "trials": 1000,
+   "detect": 1.0,
+   "exact_loc": 1.0,
+   "class_acc": null
+  },
+  {
+   "operator": "Invisible-character insertion",
+   "family": "Unicode",
+   "method": "B3n+A",
+   "trials": 1000,
+   "detect": 1.0,
+   "exact_loc": 1.0,
+   "class_acc": null
+  },
+  {
+   "operator": "Invisible-character insertion",
+   "family": "Unicode",
+   "method": "Proposed",
+   "trials": 1000,
+   "detect": 1.0,
+   "exact_loc": 1.0,
+   "class_acc": 1.0
+  },
+  {
+   "operator": "Bidi-control insertion",
+   "family": "Unicode",
+   "method": "B1",
+   "trials": 1000,
+   "detect": 1.0,
+   "exact_loc": null,
+   "class_acc": null
+  },
+  {
+   "operator": "Bidi-control insertion",
+   "family": "Unicode",
+   "method": "B2",
+   "trials": 1000,
+   "detect": 1.0,
+   "exact_loc": 1.0,
+   "class_acc": null
+  },
+  {
+   "operator": "Bidi-control insertion",
+   "family": "Unicode",
+   "method": "B3",
+   "trials": 1000,
+   "detect": 1.0,
+   "exact_loc": 1.0,
+   "class_acc": null
+  },
+  {
+   "operator": "Bidi-control insertion",
+   "family": "Unicode",
+   "method": "B4",
+   "trials": 1000,
+   "detect": 1.0,
+   "exact_loc": 1.0,
+   "class_acc": null
+  },
+  {
+   "operator": "Bidi-control insertion",
+   "family": "Unicode",
+   "method": "B3n",
+   "trials": 1000,
+   "detect": 1.0,
+   "exact_loc": 1.0,
+   "class_acc": null
+  },
+  {
+   "operator": "Bidi-control insertion",
+   "family": "Unicode",
+   "method": "B3n+A",
+   "trials": 1000,
+   "detect": 1.0,
+   "exact_loc": 1.0,
+   "class_acc": null
+  },
+  {
+   "operator": "Bidi-control insertion",
+   "family": "Unicode",
+   "method": "Proposed",
+   "trials": 1000,
+   "detect": 1.0,
+   "exact_loc": 1.0,
+   "class_acc": 1.0
+  },
+  {
+   "operator": "Verse deletion",
+   "family": "Structural",
+   "method": "B1",
+   "trials": 1000,
+   "detect": 1.0,
+   "exact_loc": null,
+   "class_acc": null
+  },
+  {
+   "operator": "Verse deletion",
+   "family": "Structural",
+   "method": "B2",
+   "trials": 1000,
+   "detect": 1.0,
+   "exact_loc": 0.012,
+   "class_acc": null
+  },
+  {
+   "operator": "Verse deletion",
+   "family": "Structural",
+   "method": "B3",
+   "trials": 1000,
+   "detect": 1.0,
+   "exact_loc": 0.012,
+   "class_acc": null
+  },
+  {
+   "operator": "Verse deletion",
+   "family": "Structural",
+   "method": "B4",
+   "trials": 1000,
+   "detect": 0.0,
+   "exact_loc": 0.0,
+   "class_acc": null
+  },
+  {
+   "operator": "Verse deletion",
+   "family": "Structural",
+   "method": "B3n",
+   "trials": 1000,
+   "detect": 1.0,
+   "exact_loc": 0.012,
+   "class_acc": null
+  },
+  {
+   "operator": "Verse deletion",
+   "family": "Structural",
+   "method": "B3n+A",
+   "trials": 1000,
+   "detect": 1.0,
+   "exact_loc": 1.0,
+   "class_acc": null
+  },
+  {
+   "operator": "Verse deletion",
+   "family": "Structural",
+   "method": "Proposed",
+   "trials": 1000,
+   "detect": 1.0,
+   "exact_loc": 1.0,
+   "class_acc": 1.0
+  },
+  {
+   "operator": "Verse insertion (duplicate)",
+   "family": "Structural",
+   "method": "B1",
+   "trials": 1000,
+   "detect": 1.0,
+   "exact_loc": null,
+   "class_acc": null
+  },
+  {
+   "operator": "Verse insertion (duplicate)",
+   "family": "Structural",
+   "method": "B2",
+   "trials": 1000,
+   "detect": 1.0,
+   "exact_loc": 0.0,
+   "class_acc": null
+  },
+  {
+   "operator": "Verse insertion (duplicate)",
+   "family": "Structural",
+   "method": "B3",
+   "trials": 1000,
+   "detect": 1.0,
+   "exact_loc": 0.0,
+   "class_acc": null
+  },
+  {
+   "operator": "Verse insertion (duplicate)",
+   "family": "Structural",
+   "method": "B4",
+   "trials": 1000,
+   "detect": 0.0,
+   "exact_loc": 0.0,
+   "class_acc": null
+  },
+  {
+   "operator": "Verse insertion (duplicate)",
+   "family": "Structural",
+   "method": "B3n",
+   "trials": 1000,
+   "detect": 1.0,
+   "exact_loc": 0.0,
+   "class_acc": null
+  },
+  {
+   "operator": "Verse insertion (duplicate)",
+   "family": "Structural",
+   "method": "B3n+A",
+   "trials": 1000,
+   "detect": 1.0,
+   "exact_loc": 0.998,
+   "class_acc": null
+  },
+  {
+   "operator": "Verse insertion (duplicate)",
+   "family": "Structural",
+   "method": "Proposed",
+   "trials": 1000,
+   "detect": 1.0,
+   "exact_loc": 0.998,
+   "class_acc": 1.0
+  },
+  {
+   "operator": "Verse swap (within chapter)",
+   "family": "Structural",
+   "method": "B1",
+   "trials": 1000,
+   "detect": 1.0,
+   "exact_loc": null,
+   "class_acc": null
+  },
+  {
+   "operator": "Verse swap (within chapter)",
+   "family": "Structural",
+   "method": "B2",
+   "trials": 1000,
+   "detect": 1.0,
+   "exact_loc": 1.0,
+   "class_acc": null
+  },
+  {
+   "operator": "Verse swap (within chapter)",
+   "family": "Structural",
+   "method": "B3",
+   "trials": 1000,
+   "detect": 1.0,
+   "exact_loc": 1.0,
+   "class_acc": null
+  },
+  {
+   "operator": "Verse swap (within chapter)",
+   "family": "Structural",
+   "method": "B4",
+   "trials": 1000,
+   "detect": 0.0,
+   "exact_loc": 0.0,
+   "class_acc": null
+  },
+  {
+   "operator": "Verse swap (within chapter)",
+   "family": "Structural",
+   "method": "B3n",
+   "trials": 1000,
+   "detect": 1.0,
+   "exact_loc": 1.0,
+   "class_acc": null
+  },
+  {
+   "operator": "Verse swap (within chapter)",
+   "family": "Structural",
+   "method": "B3n+A",
+   "trials": 1000,
+   "detect": 1.0,
+   "exact_loc": 1.0,
+   "class_acc": null
+  },
+  {
+   "operator": "Verse swap (within chapter)",
+   "family": "Structural",
+   "method": "Proposed",
+   "trials": 1000,
+   "detect": 1.0,
+   "exact_loc": 1.0,
+   "class_acc": 1.0
+  }
+ ],
+ "confusion_by_family": {
+  "Letter/word": {
+   "L": 4992,
+   "D": 8
+  },
+  "Diacritic": {
+   "D": 3000
+  },
+  "Unicode": {
+   "U": 3000
+  },
+  "Structural": {
+   "S-del": 1000,
+   "S-ins": 1000,
+   "S-reloc": 1000
+  }
+ },
+ "errors": [
+  {
+   "operator": "Letter substitution",
+   "expected": "L",
+   "got": [
+    "D"
+   ],
+   "ids": [
+    [
+     13,
+     38
+    ]
+   ]
+  },
+  {
+   "operator": "Letter substitution",
+   "expected": "L",
+   "got": [
+    "D"
+   ],
+   "ids": [
+    [
+     17,
+     62
+    ]
+   ]
+  },
+  {
+   "operator": "Letter substitution",
+   "expected": "L",
+   "got": [
+    "D"
+   ],
+   "ids": [
+    [
+     53,
+     56
+    ]
+   ]
+  },
+  {
+   "operator": "Letter substitution",
+   "expected": "L",
+   "got": [
+    "D"
+   ],
+   "ids": [
+    [
+     90,
+     5
+    ]
+   ]
+  },
+  {
+   "operator": "Letter substitution",
+   "expected": "L",
+   "got": [
+    "D"
+   ],
+   "ids": [
+    [
+     25,
+     26
+    ]
+   ]
+  },
+  {
+   "operator": "Letter substitution",
+   "expected": "L",
+   "got": [
+    "D"
+   ],
+   "ids": [
+    [
+     8,
+     66
+    ]
+   ]
+  },
+  {
+   "operator": "Letter substitution",
+   "expected": "L",
+   "got": [
+    "D"
+   ],
+   "ids": [
+    [
+     23,
+     3
+    ]
+   ]
+  },
+  {
+   "operator": "Adjacent-word swap",
+   "expected": "L",
+   "got": [
+    "D"
+   ],
+   "ids": [
+    [
+     26,
+     130
+    ]
+   ]
+  }
+ ],
+ "cost": {
+  "Letter substitution": {
+   "hashes_mean": 27.292,
+   "hashes_max": 32,
+   "records_mean": 1.0,
+   "texts_mean": 1.0,
+   "texts_max": 1,
+   "bytes_mean": 1246.483,
+   "bytes_max": 2164
+  },
+  "Letter deletion": {
+   "hashes_mean": 27.202,
+   "hashes_max": 32,
+   "records_mean": 1.0,
+   "texts_mean": 1.0,
+   "texts_max": 1,
+   "bytes_mean": 1243.227,
+   "bytes_max": 2328
+  },
+  "Letter insertion": {
+   "hashes_mean": 27.22,
+   "hashes_max": 32,
+   "records_mean": 1.0,
+   "texts_mean": 1.0,
+   "texts_max": 1,
+   "bytes_mean": 1243.529,
+   "bytes_max": 3204
+  },
+  "Word deletion": {
+   "hashes_mean": 27.212,
+   "hashes_max": 32,
+   "records_mean": 1.0,
+   "texts_mean": 1.0,
+   "texts_max": 1,
+   "bytes_mean": 1247.06,
+   "bytes_max": 3204
+  },
+  "Adjacent-word swap": {
+   "hashes_mean": 27.192,
+   "hashes_max": 32,
+   "records_mean": 1.0,
+   "texts_mean": 1.0,
+   "texts_max": 1,
+   "bytes_mean": 1246.088,
+   "bytes_max": 3204
+  },
+  "Vowel substitution": {
+   "hashes_mean": 27.102,
+   "hashes_max": 32,
+   "records_mean": 1.0,
+   "texts_mean": 1.0,
+   "texts_max": 1,
+   "bytes_mean": 1241.898,
+   "bytes_max": 2476
+  },
+  "Diacritic deletion": {
+   "hashes_mean": 27.238,
+   "hashes_max": 32,
+   "records_mean": 1.0,
+   "texts_mean": 1.0,
+   "texts_max": 1,
+   "bytes_mean": 1241.119,
+   "bytes_max": 2476
+  },
+  "Diacritic insertion": {
+   "hashes_mean": 27.218,
+   "hashes_max": 32,
+   "records_mean": 1.0,
+   "texts_mean": 1.0,
+   "texts_max": 1,
+   "bytes_mean": 1240.19,
+   "bytes_max": 2318
+  },
+  "Homoglyph substitution": {
+   "hashes_mean": 27.414,
+   "hashes_max": 32,
+   "records_mean": 1.0,
+   "texts_mean": 1.0,
+   "texts_max": 1,
+   "bytes_mean": 1261.58,
+   "bytes_max": 2328
+  },
+  "Invisible-character insertion": {
+   "hashes_mean": 27.228,
+   "hashes_max": 32,
+   "records_mean": 1.0,
+   "texts_mean": 1.0,
+   "texts_max": 1,
+   "bytes_mean": 1245.877,
+   "bytes_max": 3204
+  },
+  "Bidi-control insertion": {
+   "hashes_mean": 27.42,
+   "hashes_max": 32,
+   "records_mean": 1.0,
+   "texts_mean": 1.0,
+   "texts_max": 1,
+   "bytes_mean": 1251.161,
+   "bytes_max": 2362
+  },
+  "Verse deletion": {
+   "hashes_mean": 13.976,
+   "hashes_max": 14,
+   "records_mean": 1.0,
+   "texts_mean": 105.664,
+   "texts_max": 287,
+   "bytes_mean": 25271.744,
+   "bytes_max": 104947
+  },
+  "Verse insertion (duplicate)": {
+   "hashes_mean": 13.994,
+   "hashes_max": 14,
+   "records_mean": 1.0,
+   "texts_mean": 108.68,
+   "texts_max": 287,
+   "bytes_mean": 25919.35,
+   "bytes_max": 104947
+  },
+  "Verse swap (within chapter)": {
+   "hashes_mean": 36.098,
+   "hashes_max": 46,
+   "records_mean": 1.0,
+   "texts_mean": 2.0,
+   "texts_max": 2,
+   "bytes_mean": 1729.97,
+   "bytes_max": 4174
+  }
+ },
+ "hamza_as_letter_correct": {
+  "Letter/word": 4996,
+  "Letter/word_n": 5000,
+  "Diacritic": 3000,
+  "Diacritic_n": 3000,
+  "Unicode": 3000,
+  "Unicode_n": 3000,
+  "Structural_n": 0
+ },
+ "mirror_tamper": {
+  "rejected": 1000,
+  "kind_record": 217,
+  "kind_chnode": 155,
+  "kind_text": 145,
+  "kind_profile": 202,
+  "kind_node": 222,
+  "kind_chapter": 59
+ },
+ "verse0": {
+  "n": 1000,
+  "detect": 1000,
+  "exact": 1000,
+  "cls_D": 1000
+ },
+ "benign": {
+  "NFC": {
+   "verses_changed_bytes": 5748,
+   "headers_changed_bytes": 112,
+   "items_changed_bytes": 5860,
+   "B1": 1,
+   "B2": 5860,
+   "B3": 5860,
+   "B4": 5860,
+   "B3n": 0,
+   "B3n+A": 0,
+   "Proposed": 0
+  },
+  "NFD": {
+   "verses_changed_bytes": 6001,
+   "headers_changed_bytes": 112,
+   "items_changed_bytes": 6113,
+   "B1": 1,
+   "B2": 6113,
+   "B3": 6113,
+   "B4": 6113,
+   "B3n": 0,
+   "B3n+A": 0,
+   "Proposed": 0
+  },
+  "NFKC": {
+   "verses_changed_bytes": 5748,
+   "headers_changed_bytes": 112,
+   "items_changed_bytes": 5860,
+   "B1": 1,
+   "B2": 5860,
+   "B3": 5860,
+   "B4": 5860,
+   "B3n": 0,
+   "B3n+A": 0,
+   "Proposed": 0
+  }
+ },
+ "n_reference_items": 6348
+}

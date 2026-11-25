@@ -1,0 +1,103 @@
+{
+ "visual_pairs": {
+  "P1": {
+   "Noto Naskh Arabic": 1.0,
+   "Amiri": 1.0,
+   "Scheherazade New": 0.9466666666666667,
+   "Amiri Quran": 1.0,
+   "KFGQPC Uthmanic Hafs": 0.0
+  },
+  "P2": {
+   "Noto Naskh Arabic": 1.0,
+   "Amiri": 0.92,
+   "Scheherazade New": 1.0,
+   "Amiri Quran": 0.0,
+   "KFGQPC Uthmanic Hafs": 0.0
+  },
+  "P3": {
+   "Noto Naskh Arabic": 1.0,
+   "Amiri": 1.0,
+   "Scheherazade New": 1.0,
+   "Amiri Quran": 1.0,
+   "KFGQPC Uthmanic Hafs": 0.0
+  },
+  "P4": {
+   "Noto Naskh Arabic": 1.0,
+   "Amiri": 1.0,
+   "Scheherazade New": 1.0,
+   "Amiri Quran": 1.0,
+   "KFGQPC Uthmanic Hafs": 1.0
+  }
+ },
+ "select_font": "Noto Naskh Arabic",
+ "feasibility": {
+  "active_rules": [
+   "P1",
+   "P2",
+   "P3"
+  ],
+  "reorder": true,
+  "full_rank_32_homoglyph_only": 7,
+  "verses": 6236,
+  "full_rank_32": 121,
+  "share_full_rank": 0.019403463758819756,
+  "chars_in_full_rank_verses": 53005,
+  "chars_total": 695149,
+  "positions_median": 8.0,
+  "positions_mean": 10.176074406670942,
+  "positions_max": 115
+ },
+ "eligible_verses": 121,
+ "attacks": {
+  "attempts": 1000,
+  "attempts_letter": 500,
+  "crc_collision": 995,
+  "sha256_detects": 995,
+  "proposed_detects": 995,
+  "class_letter_U+L": 499,
+  "attempts_vowel": 500,
+  "class_vowel_U+D": 495,
+  "class_letter_U+D": 1
+ },
+ "swaps_median": 16.0,
+ "swaps_mean": 16.08542713567839,
+ "swaps_max": 25,
+ "visual_forgeries": {
+  "Noto Naskh Arabic": {
+   "rendered": 300,
+   "pixel_identical": 300
+  },
+  "Amiri": {
+   "rendered": 300,
+   "pixel_identical": 260
+  },
+  "Scheherazade New": {
+   "rendered": 300,
+   "pixel_identical": 193
+  },
+  "Amiri Quran": {
+   "rendered": 300,
+   "pixel_identical": 46
+  },
+  "KFGQPC Uthmanic Hafs": {
+   "rendered": 300,
+   "pixel_identical": 0
+  }
+ },
+ "suffix": {
+  "attempts": 300,
+  "crc_collision": 300,
+  "proposed_detects": 300,
+  "class_U+D": 300,
+  "skipped_no_vowel": 2
+ },
+ "suffix_pixel_identical": {
+  "Noto Naskh Arabic": 300,
+  "Amiri": 300,
+  "Scheherazade New": 300,
+  "Amiri Quran": 300,
+  "KFGQPC Uthmanic Hafs": 300
+ },
+ "seed": 7,
+ "n_render": 300
+}

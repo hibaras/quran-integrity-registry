@@ -1,0 +1,76 @@
+{
+ "NFC": {
+  "items_changed": 5860,
+  "verses_changed": 5748,
+  "unique_words": 5720,
+  "fonts": {
+   "Amiri": {
+    "words_identical": 5720,
+    "items_identical": 5860,
+    "verses_not_identical": 0,
+    "examples": []
+   },
+   "Noto Naskh Arabic": {
+    "words_identical": 5720,
+    "items_identical": 5860,
+    "verses_not_identical": 0,
+    "examples": []
+   },
+   "Scheherazade New": {
+    "words_identical": 5720,
+    "items_identical": 5860,
+    "verses_not_identical": 0,
+    "examples": []
+   },
+   "Amiri Quran": {
+    "words_identical": 5720,
+    "items_identical": 5860,
+    "verses_not_identical": 0,
+    "examples": []
+   },
+   "KFGQPC Uthmanic Hafs": {
+    "words_identical": 5720,
+    "items_identical": 5860,
+    "verses_not_identical": 0,
+    "examples": []
+   }
+  }
+ },
+ "NFD": {
+  "items_changed": 6113,
+  "verses_changed": 6001,
+  "unique_words": 8167,
+  "fonts": {
+   "Amiri": {
+    "words_identical": 8167,
+    "items_identical": 6113,
+    "verses_not_identical": 0,
+    "examples": []
+   },
+   "Noto Naskh Arabic": {
+    "words_identical": 8167,
+    "items_identical": 6113,
+    "verses_not_identical": 0,
+    "examples": []
+   },
+   "Scheherazade New": {
+    "words_identical": 8167,
+    "items_identical": 6113,
+    "verses_not_identical": 0,
+    "examples": []
+   },
+   "Amiri Quran": {
+    "words_identical": 8167,
+    "items_identical": 6113,
+    "verses_not_identical": 0,
+    "examples": []
+   },
+   "KFGQPC Uthmanic Hafs": {
+    "words_identical": 8167,
+    "items_identical": 6113,
+    "verses_not_identical": 0,
+    "examples": []
+   }
+  }
+ }
+}

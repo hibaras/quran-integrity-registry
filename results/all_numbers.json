@@ -1,0 +1,3604 @@
+{
+ "e1": {
+  "n_trials": 1000,
+  "seed": 2026,
+  "rows": [
+   {
+    "operator": "Letter substitution",
+    "family": "Letter/word",
+    "method": "B1",
+    "trials": 1000,
+    "detect": 1.0,
+    "exact_loc": null,
+    "class_acc": null
+   },
+   {
+    "operator": "Letter substitution",
+    "family": "Letter/word",
+    "method": "B2",
+    "trials": 1000,
+    "detect": 1.0,
+    "exact_loc": 1.0,
+    "class_acc": null
+   },
+   {
+    "operator": "Letter substitution",
+    "family": "Letter/word",
+    "method": "B3",
+    "trials": 1000,
+    "detect": 1.0,
+    "exact_loc": 1.0,
+    "class_acc": null
+   },
+   {
+    "operator": "Letter substitution",
+    "family": "Letter/word",
+    "method": "B4",
+    "trials": 1000,
+    "detect": 1.0,
+    "exact_loc": 1.0,
+    "class_acc": null
+   },
+   {
+    "operator": "Letter substitution",
+    "family": "Letter/word",
+    "method": "B3n",
+    "trials": 1000,
+    "detect": 1.0,
+    "exact_loc": 1.0,
+    "class_acc": null
+   },
+   {
+    "operator": "Letter substitution",
+    "family": "Letter/word",
+    "method": "B3n+A",
+    "trials": 1000,
+    "detect": 1.0,
+    "exact_loc": 1.0,
+    "class_acc": null
+   },
+   {
+    "operator": "Letter substitution",
+    "family": "Letter/word",
+    "method": "Proposed",
+    "trials": 1000,
+    "detect": 1.0,
+    "exact_loc": 1.0,
+    "class_acc": 0.993
+   },
+   {
+    "operator": "Letter deletion",
+    "family": "Letter/word",
+    "method": "B1",
+    "trials": 1000,
+    "detect": 1.0,
+    "exact_loc": null,
+    "class_acc": null
+   },
+   {
+    "operator": "Letter deletion",
+    "family": "Letter/word",
+    "method": "B2",
+    "trials": 1000,
+    "detect": 1.0,
+    "exact_loc": 1.0,
+    "class_acc": null
+   },
+   {
+    "operator": "Letter deletion",
+    "family": "Letter/word",
+    "method": "B3",
+    "trials": 1000,
+    "detect": 1.0,
+    "exact_loc": 1.0,
+    "class_acc": null
+   },
+   {
+    "operator": "Letter deletion",
+    "family": "Letter/word",
+    "method": "B4",
+    "trials": 1000,
+    "detect": 1.0,
+    "exact_loc": 1.0,
+    "class_acc": null
+   },
+   {
+    "operator": "Letter deletion",
+    "family": "Letter/word",
+    "method": "B3n",
+    "trials": 1000,
+    "detect": 1.0,
+    "exact_loc": 1.0,
+    "class_acc": null
+   },
+   {
+    "operator": "Letter deletion",
+    "family": "Letter/word",
+    "method": "B3n+A",
+    "trials": 1000,
+    "detect": 1.0,
+    "exact_loc": 1.0,
+    "class_acc": null
+   },
+   {
+    "operator": "Letter deletion",
+    "family": "Letter/word",
+    "method": "Proposed",
+    "trials": 1000,
+    "detect": 1.0,
+    "exact_loc": 1.0,
+    "class_acc": 1.0
+   },
+   {
+    "operator": "Letter insertion",
+    "family": "Letter/word",
+    "method": "B1",
+    "trials": 1000,
+    "detect": 1.0,
+    "exact_loc": null,
+    "class_acc": null
+   },
+   {
+    "operator": "Letter insertion",
+    "family": "Letter/word",
+    "method": "B2",
+    "trials": 1000,
+    "detect": 1.0,
+    "exact_loc": 1.0,
+    "class_acc": null
+   },
+   {
+    "operator": "Letter insertion",
+    "family": "Letter/word",
+    "method": "B3",
+    "trials": 1000,
+    "detect": 1.0,
+    "exact_loc": 1.0,
+    "class_acc": null
+   },
+   {
+    "operator": "Letter insertion",
+    "family": "Letter/word",
+    "method": "B4",
+    "trials": 1000,
+    "detect": 1.0,
+    "exact_loc": 1.0,
+    "class_acc": null
+   },
+   {
+    "operator": "Letter insertion",
+    "family": "Letter/word",
+    "method": "B3n",
+    "trials": 1000,
+    "detect": 1.0,
+    "exact_loc": 1.0,
+    "class_acc": null
+   },
+   {
+    "operator": "Letter insertion",
+    "family": "Letter/word",
+    "method": "B3n+A",
+    "trials": 1000,
+    "detect": 1.0,
+    "exact_loc": 1.0,
+    "class_acc": null
+   },
+   {
+    "operator": "Letter insertion",
+    "family": "Letter/word",
+    "method": "Proposed",
+    "trials": 1000,
+    "detect": 1.0,
+    "exact_loc": 1.0,
+    "class_acc": 1.0
+   },
+   {
+    "operator": "Word deletion",
+    "family": "Letter/word",
+    "method": "B1",
+    "trials": 1000,
+    "detect": 1.0,
+    "exact_loc": null,
+    "class_acc": null
+   },
+   {
+    "operator": "Word deletion",
+    "family": "Letter/word",
+    "method": "B2",
+    "trials": 1000,
+    "detect": 1.0,
+    "exact_loc": 1.0,
+    "class_acc": null
+   },
+   {
+    "operator": "Word deletion",
+    "family": "Letter/word",
+    "method": "B3",
+    "trials": 1000,
+    "detect": 1.0,
+    "exact_loc": 1.0,
+    "class_acc": null
+   },
+   {
+    "operator": "Word deletion",
+    "family": "Letter/word",
+    "method": "B4",
+    "trials": 1000,
+    "detect": 1.0,
+    "exact_loc": 1.0,
+    "class_acc": null
+   },
+   {
+    "operator": "Word deletion",
+    "family": "Letter/word",
+    "method": "B3n",
+    "trials": 1000,
+    "detect": 1.0,
+    "exact_loc": 1.0,
+    "class_acc": null
+   },
+   {
+    "operator": "Word deletion",
+    "family": "Letter/word",
+    "method": "B3n+A",
+    "trials": 1000,
+    "detect": 1.0,
+    "exact_loc": 1.0,
+    "class_acc": null
+   },
+   {
+    "operator": "Word deletion",
+    "family": "Letter/word",
+    "method": "Proposed",
+    "trials": 1000,
+    "detect": 1.0,
+    "exact_loc": 1.0,
+    "class_acc": 1.0
+   },
+   {
+    "operator": "Adjacent-word swap",
+    "family": "Letter/word",
+    "method": "B1",
+    "trials": 1000,
+    "detect": 1.0,
+    "exact_loc": null,
+    "class_acc": null
+   },
+   {
+    "operator": "Adjacent-word swap",
+    "family": "Letter/word",
+    "method": "B2",
+    "trials": 1000,
+    "detect": 1.0,
+    "exact_loc": 1.0,
+    "class_acc": null
+   },
+   {
+    "operator": "Adjacent-word swap",
+    "family": "Letter/word",
+    "method": "B3",
+    "trials": 1000,
+    "detect": 1.0,
+    "exact_loc": 1.0,
+    "class_acc": null
+   },
+   {
+    "operator": "Adjacent-word swap",
+    "family": "Letter/word",
+    "method": "B4",
+    "trials": 1000,
+    "detect": 1.0,
+    "exact_loc": 1.0,
+    "class_acc": null
+   },
+   {
+    "operator": "Adjacent-word swap",
+    "family": "Letter/word",
+    "method": "B3n",
+    "trials": 1000,
+    "detect": 1.0,
+    "exact_loc": 1.0,
+    "class_acc": null
+   },
+   {
+    "operator": "Adjacent-word swap",
+    "family": "Letter/word",
+    "method": "B3n+A",
+    "trials": 1000,
+    "detect": 1.0,
+    "exact_loc": 1.0,
+    "class_acc": null
+   },
+   {
+    "operator": "Adjacent-word swap",
+    "family": "Letter/word",
+    "method": "Proposed",
+    "trials": 1000,
+    "detect": 1.0,
+    "exact_loc": 1.0,
+    "class_acc": 0.999
+   },
+   {
+    "operator": "Vowel substitution",
+    "family": "Diacritic",
+    "method": "B1",
+    "trials": 1000,
+    "detect": 1.0,
+    "exact_loc": null,
+    "class_acc": null
+   },
+   {
+    "operator": "Vowel substitution",
+    "family": "Diacritic",
+    "method": "B2",
+    "trials": 1000,
+    "detect": 1.0,
+    "exact_loc": 1.0,
+    "class_acc": null
+   },
+   {
+    "operator": "Vowel substitution",
+    "family": "Diacritic",
+    "method": "B3",
+    "trials": 1000,
+    "detect": 1.0,
+    "exact_loc": 1.0,
+    "class_acc": null
+   },
+   {
+    "operator": "Vowel substitution",
+    "family": "Diacritic",
+    "method": "B4",
+    "trials": 1000,
+    "detect": 1.0,
+    "exact_loc": 1.0,
+    "class_acc": null
+   },
+   {
+    "operator": "Vowel substitution",
+    "family": "Diacritic",
+    "method": "B3n",
+    "trials": 1000,
+    "detect": 1.0,
+    "exact_loc": 1.0,
+    "class_acc": null
+   },
+   {
+    "operator": "Vowel substitution",
+    "family": "Diacritic",
+    "method": "B3n+A",
+    "trials": 1000,
+    "detect": 1.0,
+    "exact_loc": 1.0,
+    "class_acc": null
+   },
+   {
+    "operator": "Vowel substitution",
+    "family": "Diacritic",
+    "method": "Proposed",
+    "trials": 1000,
+    "detect": 1.0,
+    "exact_loc": 1.0,
+    "class_acc": 1.0
+   },
+   {
+    "operator": "Diacritic deletion",
+    "family": "Diacritic",
+    "method": "B1",
+    "trials": 1000,
+    "detect": 1.0,
+    "exact_loc": null,
+    "class_acc": null
+   },
+   {
+    "operator": "Diacritic deletion",
+    "family": "Diacritic",
+    "method": "B2",
+    "trials": 1000,
+    "detect": 1.0,
+    "exact_loc": 1.0,
+    "class_acc": null
+   },
+   {
+    "operator": "Diacritic deletion",
+    "family": "Diacritic",
+    "method": "B3",
+    "trials": 1000,
+    "detect": 1.0,
+    "exact_loc": 1.0,
+    "class_acc": null
+   },
+   {
+    "operator": "Diacritic deletion",
+    "family": "Diacritic",
+    "method": "B4",
+    "trials": 1000,
+    "detect": 1.0,
+    "exact_loc": 1.0,
+    "class_acc": null
+   },
+   {
+    "operator": "Diacritic deletion",
+    "family": "Diacritic",
+    "method": "B3n",
+    "trials": 1000,
+    "detect": 1.0,
+    "exact_loc": 1.0,
+    "class_acc": null
+   },
+   {
+    "operator": "Diacritic deletion",
+    "family": "Diacritic",
+    "method": "B3n+A",
+    "trials": 1000,
+    "detect": 1.0,
+    "exact_loc": 1.0,
+    "class_acc": null
+   },
+   {
+    "operator": "Diacritic deletion",
+    "family": "Diacritic",
+    "method": "Proposed",
+    "trials": 1000,
+    "detect": 1.0,
+    "exact_loc": 1.0,
+    "class_acc": 1.0
+   },
+   {
+    "operator": "Diacritic insertion",
+    "family": "Diacritic",
+    "method": "B1",
+    "trials": 1000,
+    "detect": 1.0,
+    "exact_loc": null,
+    "class_acc": null
+   },
+   {
+    "operator": "Diacritic insertion",
+    "family": "Diacritic",
+    "method": "B2",
+    "trials": 1000,
+    "detect": 1.0,
+    "exact_loc": 1.0,
+    "class_acc": null
+   },
+   {
+    "operator": "Diacritic insertion",
+    "family": "Diacritic",
+    "method": "B3",
+    "trials": 1000,
+    "detect": 1.0,
+    "exact_loc": 1.0,
+    "class_acc": null
+   },
+   {
+    "operator": "Diacritic insertion",
+    "family": "Diacritic",
+    "method": "B4",
+    "trials": 1000,
+    "detect": 1.0,
+    "exact_loc": 1.0,
+    "class_acc": null
+   },
+   {
+    "operator": "Diacritic insertion",
+    "family": "Diacritic",
+    "method": "B3n",
+    "trials": 1000,
+    "detect": 1.0,
+    "exact_loc": 1.0,
+    "class_acc": null
+   },
+   {
+    "operator": "Diacritic insertion",
+    "family": "Diacritic",
+    "method": "B3n+A",
+    "trials": 1000,
+    "detect": 1.0,
+    "exact_loc": 1.0,
+    "class_acc": null
+   },
+   {
+    "operator": "Diacritic insertion",
+    "family": "Diacritic",
+    "method": "Proposed",
+    "trials": 1000,
+    "detect": 1.0,
+    "exact_loc": 1.0,
+    "class_acc": 1.0
+   },
+   {
+    "operator": "Homoglyph substitution",
+    "family": "Unicode",
+    "method": "B1",
+    "trials": 1000,
+    "detect": 1.0,
+    "exact_loc": null,
+    "class_acc": null
+   },
+   {
+    "operator": "Homoglyph substitution",
+    "family": "Unicode",
+    "method": "B2",
+    "trials": 1000,
+    "detect": 1.0,
+    "exact_loc": 1.0,
+    "class_acc": null
+   },
+   {
+    "operator": "Homoglyph substitution",
+    "family": "Unicode",
+    "method": "B3",
+    "trials": 1000,
+    "detect": 1.0,
+    "exact_loc": 1.0,
+    "class_acc": null
+   },
+   {
+    "operator": "Homoglyph substitution",
+    "family": "Unicode",
+    "method": "B4",
+    "trials": 1000,
+    "detect": 1.0,
+    "exact_loc": 1.0,
+    "class_acc": null
+   },
+   {
+    "operator": "Homoglyph substitution",
+    "family": "Unicode",
+    "method": "B3n",
+    "trials": 1000,
+    "detect": 1.0,
+    "exact_loc": 1.0,
+    "class_acc": null
+   },
+   {
+    "operator": "Homoglyph substitution",
+    "family": "Unicode",
+    "method": "B3n+A",
+    "trials": 1000,
+    "detect": 1.0,
+    "exact_loc": 1.0,
+    "class_acc": null
+   },
+   {
+    "operator": "Homoglyph substitution",
+    "family": "Unicode",
+    "method": "Proposed",
+    "trials": 1000,
+    "detect": 1.0,
+    "exact_loc": 1.0,
+    "class_acc": 1.0
+   },
+   {
+    "operator": "Invisible-character insertion",
+    "family": "Unicode",
+    "method": "B1",
+    "trials": 1000,
+    "detect": 1.0,
+    "exact_loc": null,
+    "class_acc": null
+   },
+   {
+    "operator": "Invisible-character insertion",
+    "family": "Unicode",
+    "method": "B2",
+    "trials": 1000,
+    "detect": 1.0,
+    "exact_loc": 1.0,
+    "class_acc": null
+   },
+   {
+    "operator": "Invisible-character insertion",
+    "family": "Unicode",
+    "method": "B3",
+    "trials": 1000,
+    "detect": 1.0,
+    "exact_loc": 1.0,
+    "class_acc": null
+   },
+   {
+    "operator": "Invisible-character insertion",
+    "family": "Unicode",
+    "method": "B4",
+    "trials": 1000,
+    "detect": 1.0,
+    "exact_loc": 1.0,
+    "class_acc": null
+   },
+   {
+    "operator": "Invisible-character insertion",
+    "family": "Unicode",
+    "method": "B3n",
+    "trials": 1000,
+    "detect": 1.0,
+    "exact_loc": 1.0,
+    "class_acc": null
+   },
+   {
+    "operator": "Invisible-character insertion",
+    "family": "Unicode",
+    "method": "B3n+A",
+    "trials": 1000,
+    "detect": 1.0,
+    "exact_loc": 1.0,
+    "class_acc": null
+   },
+   {
+    "operator": "Invisible-character insertion",
+    "family": "Unicode",
+    "method": "Proposed",
+    "trials": 1000,
+    "detect": 1.0,
+    "exact_loc": 1.0,
+    "class_acc": 1.0
+   },
+   {
+    "operator": "Bidi-control insertion",
+    "family": "Unicode",
+    "method": "B1",
+    "trials": 1000,
+    "detect": 1.0,
+    "exact_loc": null,
+    "class_acc": null
+   },
+   {
+    "operator": "Bidi-control insertion",
+    "family": "Unicode",
+    "method": "B2",
+    "trials": 1000,
+    "detect": 1.0,
+    "exact_loc": 1.0,
+    "class_acc": null
+   },
+   {
+    "operator": "Bidi-control insertion",
+    "family": "Unicode",
+    "method": "B3",
+    "trials": 1000,
+    "detect": 1.0,
+    "exact_loc": 1.0,
+    "class_acc": null
+   },
+   {
+    "operator": "Bidi-control insertion",
+    "family": "Unicode",
+    "method": "B4",
+    "trials": 1000,
+    "detect": 1.0,
+    "exact_loc": 1.0,
+    "class_acc": null
+   },
+   {
+    "operator": "Bidi-control insertion",
+    "family": "Unicode",
+    "method": "B3n",
+    "trials": 1000,
+    "detect": 1.0,
+    "exact_loc": 1.0,
+    "class_acc": null
+   },
+   {
+    "operator": "Bidi-control insertion",
+    "family": "Unicode",
+    "method": "B3n+A",
+    "trials": 1000,
+    "detect": 1.0,
+    "exact_loc": 1.0,
+    "class_acc": null
+   },
+   {
+    "operator": "Bidi-control insertion",
+    "family": "Unicode",
+    "method": "Proposed",
+    "trials": 1000,
+    "detect": 1.0,
+    "exact_loc": 1.0,
+    "class_acc": 1.0
+   },
+   {
+    "operator": "Verse deletion",
+    "family": "Structural",
+    "method": "B1",
+    "trials": 1000,
+    "detect": 1.0,
+    "exact_loc": null,
+    "class_acc": null
+   },
+   {
+    "operator": "Verse deletion",
+    "family": "Structural",
+    "method": "B2",
+    "trials": 1000,
+    "detect": 1.0,
+    "exact_loc": 0.012,
+    "class_acc": null
+   },
+   {
+    "operator": "Verse deletion",
+    "family": "Structural",
+    "method": "B3",
+    "trials": 1000,
+    "detect": 1.0,
+    "exact_loc": 0.012,
+    "class_acc": null
+   },
+   {
+    "operator": "Verse deletion",
+    "family": "Structural",
+    "method": "B4",
+    "trials": 1000,
+    "detect": 0.0,
+    "exact_loc": 0.0,
+    "class_acc": null
+   },
+   {
+    "operator": "Verse deletion",
+    "family": "Structural",
+    "method": "B3n",
+    "trials": 1000,
+    "detect": 1.0,
+    "exact_loc": 0.012,
+    "class_acc": null
+   },
+   {
+    "operator": "Verse deletion",
+    "family": "Structural",
+    "method": "B3n+A",
+    "trials": 1000,
+    "detect": 1.0,
+    "exact_loc": 1.0,
+    "class_acc": null
+   },
+   {
+    "operator": "Verse deletion",
+    "family": "Structural",
+    "method": "Proposed",
+    "trials": 1000,
+    "detect": 1.0,
+    "exact_loc": 1.0,
+    "class_acc": 1.0
+   },
+   {
+    "operator": "Verse insertion (duplicate)",
+    "family": "Structural",
+    "method": "B1",
+    "trials": 1000,
+    "detect": 1.0,
+    "exact_loc": null,
+    "class_acc": null
+   },
+   {
+    "operator": "Verse insertion (duplicate)",
+    "family": "Structural",
+    "method": "B2",
+    "trials": 1000,
+    "detect": 1.0,
+    "exact_loc": 0.0,
+    "class_acc": null
+   },
+   {
+    "operator": "Verse insertion (duplicate)",
+    "family": "Structural",
+    "method": "B3",
+    "trials": 1000,
+    "detect": 1.0,
+    "exact_loc": 0.0,
+    "class_acc": null
+   },
+   {
+    "operator": "Verse insertion (duplicate)",
+    "family": "Structural",
+    "method": "B4",
+    "trials": 1000,
+    "detect": 0.0,
+    "exact_loc": 0.0,
+    "class_acc": null
+   },
+   {
+    "operator": "Verse insertion (duplicate)",
+    "family": "Structural",
+    "method": "B3n",
+    "trials": 1000,
+    "detect": 1.0,
+    "exact_loc": 0.0,
+    "class_acc": null
+   },
+   {
+    "operator": "Verse insertion (duplicate)",
+    "family": "Structural",
+    "method": "B3n+A",
+    "trials": 1000,
+    "detect": 1.0,
+    "exact_loc": 0.998,
+    "class_acc": null
+   },
+   {
+    "operator": "Verse insertion (duplicate)",
+    "family": "Structural",
+    "method": "Proposed",
+    "trials": 1000,
+    "detect": 1.0,
+    "exact_loc": 0.998,
+    "class_acc": 1.0
+   },
+   {
+    "operator": "Verse swap (within chapter)",
+    "family": "Structural",
+    "method": "B1",
+    "trials": 1000,
+    "detect": 1.0,
+    "exact_loc": null,
+    "class_acc": null
+   },
+   {
+    "operator": "Verse swap (within chapter)",
+    "family": "Structural",
+    "method": "B2",
+    "trials": 1000,
+    "detect": 1.0,
+    "exact_loc": 1.0,
+    "class_acc": null
+   },
+   {
+    "operator": "Verse swap (within chapter)",
+    "family": "Structural",
+    "method": "B3",
+    "trials": 1000,
+    "detect": 1.0,
+    "exact_loc": 1.0,
+    "class_acc": null
+   },
+   {
+    "operator": "Verse swap (within chapter)",
+    "family": "Structural",
+    "method": "B4",
+    "trials": 1000,
+    "detect": 0.0,
+    "exact_loc": 0.0,
+    "class_acc": null
+   },
+   {
+    "operator": "Verse swap (within chapter)",
+    "family": "Structural",
+    "method": "B3n",
+    "trials": 1000,
+    "detect": 1.0,
+    "exact_loc": 1.0,
+    "class_acc": null
+   },
+   {
+    "operator": "Verse swap (within chapter)",
+    "family": "Structural",
+    "method": "B3n+A",
+    "trials": 1000,
+    "detect": 1.0,
+    "exact_loc": 1.0,
+    "class_acc": null
+   },
+   {
+    "operator": "Verse swap (within chapter)",
+    "family": "Structural",
+    "method": "Proposed",
+    "trials": 1000,
+    "detect": 1.0,
+    "exact_loc": 1.0,
+    "class_acc": 1.0
+   }
+  ],
+  "confusion_by_family": {
+   "Letter/word": {
+    "L": 4992,
+    "D": 8
+   },
+   "Diacritic": {
+    "D": 3000
+   },
+   "Unicode": {
+    "U": 3000
+   },
+   "Structural": {
+    "S-del": 1000,
+    "S-ins": 1000,
+    "S-reloc": 1000
+   }
+  },
+  "errors": [
+   {
+    "operator": "Letter substitution",
+    "expected": "L",
+    "got": [
+     "D"
+    ],
+    "ids": [
+     [
+      13,
+      38
+     ]
+    ]
+   },
+   {
+    "operator": "Letter substitution",
+    "expected": "L",
+    "got": [
+     "D"
+    ],
+    "ids": [
+     [
+      17,
+      62
+     ]
+    ]
+   },
+   {
+    "operator": "Letter substitution",
+    "expected": "L",
+    "got": [
+     "D"
+    ],
+    "ids": [
+     [
+      53,
+      56
+     ]
+    ]
+   },
+   {
+    "operator": "Letter substitution",
+    "expected": "L",
+    "got": [
+     "D"
+    ],
+    "ids": [
+     [
+      90,
+      5
+     ]
+    ]
+   },
+   {
+    "operator": "Letter substitution",
+    "expected": "L",
+    "got": [
+     "D"
+    ],
+    "ids": [
+     [
+      25,
+      26
+     ]
+    ]
+   },
+   {
+    "operator": "Letter substitution",
+    "expected": "L",
+    "got": [
+     "D"
+    ],
+    "ids": [
+     [
+      8,
+      66
+     ]
+    ]
+   },
+   {
+    "operator": "Letter substitution",
+    "expected": "L",
+    "got": [
+     "D"
+    ],
+    "ids": [
+     [
+      23,
+      3
+     ]
+    ]
+   },
+   {
+    "operator": "Adjacent-word swap",
+    "expected": "L",
+    "got": [
+     "D"
+    ],
+    "ids": [
+     [
+      26,
+      130
+     ]
+    ]
+   }
+  ],
+  "cost": {
+   "Letter substitution": {
+    "hashes_mean": 27.292,
+    "hashes_max": 32,
+    "records_mean": 1.0,
+    "texts_mean": 1.0,
+    "texts_max": 1,
+    "bytes_mean": 1246.483,
+    "bytes_max": 2164
+   },
+   "Letter deletion": {
+    "hashes_mean": 27.202,
+    "hashes_max": 32,
+    "records_mean": 1.0,
+    "texts_mean": 1.0,
+    "texts_max": 1,
+    "bytes_mean": 1243.227,
+    "bytes_max": 2328
+   },
+   "Letter insertion": {
+    "hashes_mean": 27.22,
+    "hashes_max": 32,
+    "records_mean": 1.0,
+    "texts_mean": 1.0,
+    "texts_max": 1,
+    "bytes_mean": 1243.529,
+    "bytes_max": 3204
+   },
+   "Word deletion": {
+    "hashes_mean": 27.212,
+    "hashes_max": 32,
+    "records_mean": 1.0,
+    "texts_mean": 1.0,
+    "texts_max": 1,
+    "bytes_mean": 1247.06,
+    "bytes_max": 3204
+   },
+   "Adjacent-word swap": {
+    "hashes_mean": 27.192,
+    "hashes_max": 32,
+    "records_mean": 1.0,
+    "texts_mean": 1.0,
+    "texts_max": 1,
+    "bytes_mean": 1246.088,
+    "bytes_max": 3204
+   },
+   "Vowel substitution": {
+    "hashes_mean": 27.102,
+    "hashes_max": 32,
+    "records_mean": 1.0,
+    "texts_mean": 1.0,
+    "texts_max": 1,
+    "bytes_mean": 1241.898,
+    "bytes_max": 2476
+   },
+   "Diacritic deletion": {
+    "hashes_mean": 27.238,
+    "hashes_max": 32,
+    "records_mean": 1.0,
+    "texts_mean": 1.0,
+    "texts_max": 1,
+    "bytes_mean": 1241.119,
+    "bytes_max": 2476
+   },
+   "Diacritic insertion": {
+    "hashes_mean": 27.218,
+    "hashes_max": 32,
+    "records_mean": 1.0,
+    "texts_mean": 1.0,
+    "texts_max": 1,
+    "bytes_mean": 1240.19,
+    "bytes_max": 2318
+   },
+   "Homoglyph substitution": {
+    "hashes_mean": 27.414,
+    "hashes_max": 32,
+    "records_mean": 1.0,
+    "texts_mean": 1.0,
+    "texts_max": 1,
+    "bytes_mean": 1261.58,
+    "bytes_max": 2328
+   },
+   "Invisible-character insertion": {
+    "hashes_mean": 27.228,
+    "hashes_max": 32,
+    "records_mean": 1.0,
+    "texts_mean": 1.0,
+    "texts_max": 1,
+    "bytes_mean": 1245.877,
+    "bytes_max": 3204
+   },
+   "Bidi-control insertion": {
+    "hashes_mean": 27.42,
+    "hashes_max": 32,
+    "records_mean": 1.0,
+    "texts_mean": 1.0,
+    "texts_max": 1,
+    "bytes_mean": 1251.161,
+    "bytes_max": 2362
+   },
+   "Verse deletion": {
+    "hashes_mean": 13.976,
+    "hashes_max": 14,
+    "records_mean": 1.0,
+    "texts_mean": 105.664,
+    "texts_max": 287,
+    "bytes_mean": 25271.744,
+    "bytes_max": 104947
+   },
+   "Verse insertion (duplicate)": {
+    "hashes_mean": 13.994,
+    "hashes_max": 14,
+    "records_mean": 1.0,
+    "texts_mean": 108.68,
+    "texts_max": 287,
+    "bytes_mean": 25919.35,
+    "bytes_max": 104947
+   },
+   "Verse swap (within chapter)": {
+    "hashes_mean": 36.098,
+    "hashes_max": 46,
+    "records_mean": 1.0,
+    "texts_mean": 2.0,
+    "texts_max": 2,
+    "bytes_mean": 1729.97,
+    "bytes_max": 4174
+   }
+  },
+  "hamza_as_letter_correct": {
+   "Letter/word": 4996,
+   "Letter/word_n": 5000,
+   "Diacritic": 3000,
+   "Diacritic_n": 3000,
+   "Unicode": 3000,
+   "Unicode_n": 3000,
+   "Structural_n": 0
+  },
+  "mirror_tamper": {
+   "rejected": 1000,
+   "kind_record": 217,
+   "kind_chnode": 155,
+   "kind_text": 145,
+   "kind_profile": 202,
+   "kind_node": 222,
+   "kind_chapter": 59
+  },
+  "verse0": {
+   "n": 1000,
+   "detect": 1000,
+   "exact": 1000,
+   "cls_D": 1000
+  },
+  "benign": {
+   "NFC": {
+    "verses_changed_bytes": 5748,
+    "headers_changed_bytes": 112,
+    "items_changed_bytes": 5860,
+    "B1": 1,
+    "B2": 5860,
+    "B3": 5860,
+    "B4": 5860,
+    "B3n": 0,
+    "B3n+A": 0,
+    "Proposed": 0
+   },
+   "NFD": {
+    "verses_changed_bytes": 6001,
+    "headers_changed_bytes": 112,
+    "items_changed_bytes": 6113,
+    "B1": 1,
+    "B2": 6113,
+    "B3": 6113,
+    "B4": 6113,
+    "B3n": 0,
+    "B3n+A": 0,
+    "Proposed": 0
+   },
+   "NFKC": {
+    "verses_changed_bytes": 5748,
+    "headers_changed_bytes": 112,
+    "items_changed_bytes": 5860,
+    "B1": 1,
+    "B2": 5860,
+    "B3": 5860,
+    "B4": 5860,
+    "B3n": 0,
+    "B3n+A": 0,
+    "Proposed": 0
+   }
+  },
+  "n_reference_items": 6348
+ },
+ "seeds": {
+  "2027": {
+   "n": 14000,
+   "detect": 14000,
+   "exact": 14000,
+   "cls": 13999
+  },
+  "2028": {
+   "n": 14000,
+   "detect": 14000,
+   "exact": 13999,
+   "cls": 13997
+  },
+  "2029": {
+   "n": 14000,
+   "detect": 14000,
+   "exact": 14000,
+   "cls": 13995
+  },
+  "2030": {
+   "n": 14000,
+   "detect": 14000,
+   "exact": 14000,
+   "cls": 13996
+  }
+ },
+ "heldout": {
+  "n": 1000,
+  "dicp_pool": 396,
+  "sub_pool": 424,
+  "sub_letters": 37,
+  "H1": {
+   "old": {
+    "U+D": 683,
+    "U": 304,
+    "U+L": 13
+   },
+   "new": {
+    "U": 1000
+   },
+   "visible": {
+    "false": 881,
+    "true": 119
+   },
+   "cross": {
+    "U|invisible": 881,
+    "U|visible": 119
+   }
+  },
+  "H2": {
+   "old": {
+    "U+L": 999,
+    "U+D": 1
+   },
+   "new": {
+    "U": 961,
+    "U+L": 39
+   },
+   "visible": {
+    "true": 943,
+    "false": 57
+   },
+   "cross": {
+    "U|visible": 904,
+    "U+L|visible": 39,
+    "U|invisible": 57
+   }
+  }
+ },
+ "render_nfc": {
+  "NFC": {
+   "items_changed": 5860,
+   "verses_changed": 5748,
+   "unique_words": 5720,
+   "fonts": {
+    "Amiri": {
+     "words_identical": 5720,
+     "items_identical": 5860,
+     "verses_not_identical": 0,
+     "examples": []
+    },
+    "Noto Naskh Arabic": {
+     "words_identical": 5720,
+     "items_identical": 5860,
+     "verses_not_identical": 0,
+     "examples": []
+    },
+    "Scheherazade New": {
+     "words_identical": 5720,
+     "items_identical": 5860,
+     "verses_not_identical": 0,
+     "examples": []
+    },
+    "Amiri Quran": {
+     "words_identical": 5720,
+     "items_identical": 5860,
+     "verses_not_identical": 0,
+     "examples": []
+    },
+    "KFGQPC Uthmanic Hafs": {
+     "words_identical": 5720,
+     "items_identical": 5860,
+     "verses_not_identical": 0,
+     "examples": []
+    }
+   }
+  },
+  "NFD": {
+   "items_changed": 6113,
+   "verses_changed": 6001,
+   "unique_words": 8167,
+   "fonts": {
+    "Amiri": {
+     "words_identical": 8167,
+     "items_identical": 6113,
+     "verses_not_identical": 0,
+     "examples": []
+    },
+    "Noto Naskh Arabic": {
+     "words_identical": 8167,
+     "items_identical": 6113,
+     "verses_not_identical": 0,
+     "examples": []
+    },
+    "Scheherazade New": {
+     "words_identical": 8167,
+     "items_identical": 6113,
+     "verses_not_identical": 0,
+     "examples": []
+    },
+    "Amiri Quran": {
+     "words_identical": 8167,
+     "items_identical": 6113,
+     "verses_not_identical": 0,
+     "examples": []
+    },
+    "KFGQPC Uthmanic Hafs": {
+     "words_identical": 8167,
+     "items_identical": 6113,
+     "verses_not_identical": 0,
+     "examples": []
+    }
+   }
+  }
+ },
+ "e3": {
+  "basmala_split": {
+   "Tanzil Uthmani": 112,
+   "Tanzil Uthmani-min": 112,
+   "Tanzil Simple": 112,
+   "Tanzil Simple-clean": 112,
+   "KFGQPC Hafs": 0
+  },
+  "comparisons": [
+   {
+    "pair": "Tanzil Uthmani vs KFGQPC Hafs",
+    "verses": 6236,
+    "raw": 6158,
+    "canonical": 6158,
+    "sigma": 2390,
+    "sigma_star": 4
+   },
+   {
+    "pair": "Tanzil Uthmani vs Tanzil Uthmani-min",
+    "verses": 6236,
+    "raw": 6232,
+    "canonical": 6232,
+    "sigma": 20,
+    "sigma_star": 1
+   },
+   {
+    "pair": "Tanzil Simple vs Tanzil Simple-clean",
+    "verses": 6236,
+    "raw": 6216,
+    "canonical": 6216,
+    "sigma": 0,
+    "sigma_star": 0
+   },
+   {
+    "pair": "Tanzil Uthmani vs Tanzil Simple",
+    "verses": 6236,
+    "raw": 5892,
+    "canonical": 5892,
+    "sigma": 4608,
+    "sigma_star": 3985
+   }
+  ],
+  "residual_uthmani_vs_qpc": {
+   "ids": [
+    "2:72",
+    "15:7",
+    "27:20",
+    "36:22"
+   ],
+   "ops": {
+    "2:72": [
+     [
+      "insert",
+      "",
+      "U+0621"
+     ]
+    ],
+    "15:7": [
+     [
+      "delete",
+      "U+0020",
+      ""
+     ]
+    ],
+    "27:20": [
+     [
+      "delete",
+      "U+0020",
+      ""
+     ]
+    ],
+    "36:22": [
+     [
+      "delete",
+      "U+0020",
+      ""
+     ]
+    ]
+   }
+  },
+  "uthmani_vs_min": {
+   "sigma_ids": [
+    "2:26",
+    "2:72",
+    "2:258",
+    "2:259",
+    "3:156",
+    "6:34",
+    "7:127",
+    "7:158",
+    "9:116",
+    "10:56",
+    "12:101",
+    "15:23",
+    "23:80",
+    "28:4",
+    "30:24",
+    "33:53",
+    "40:68",
+    "44:8",
+    "50:43",
+    "57:2"
+   ],
+   "sigma_star_ids": [
+    "2:72"
+   ],
+   "ops": [
+    [
+     [
+      "replace",
+      "U+0649",
+      "U+064A"
+     ],
+     21
+    ],
+    [
+     [
+      "insert",
+      "",
+      "U+0621"
+     ],
+     1
+    ]
+   ],
+   "sigma_star_ops": {
+    "2:72": [
+     [
+      "insert",
+      "",
+      "U+0621"
+     ]
+    ]
+   }
+  },
+  "uthmani_vs_qpc_sigma_ops": [
+   [
+    [
+     "replace",
+     "U+0649",
+     "U+064A"
+    ],
+    3690
+   ],
+   [
+    [
+     "delete",
+     "U+0020",
+     ""
+    ],
+    3
+   ],
+   [
+    [
+     "insert",
+     "",
+     "U+0621"
+    ],
+    1
+   ]
+  ],
+  "hamza_as_letter": {
+   "uthmani_vs_qpc_sigma_star": 275
+  },
+  "diagnosis_vs_tanzil_registry": {
+   "KFGQPC Hafs": {
+    "flagged": 6270,
+    "items": 6236,
+    "labels": {
+     "U+D": 3748,
+     "U+L": 2337,
+     "S-del": 112,
+     "L": 53,
+     "D": 20
+    },
+    "mismatch": true,
+    "bytes": 1341428
+   },
+   "Tanzil Uthmani-min": {
+    "flagged": 6344,
+    "items": 6348,
+    "labels": {
+     "D": 6324,
+     "L": 20
+    },
+    "mismatch": false,
+    "bytes": 1731734
+   },
+   "Tanzil Simple": {
+    "flagged": 6004,
+    "items": 6348,
+    "labels": {
+     "L": 4608,
+     "D": 1396
+    },
+    "mismatch": false,
+    "bytes": 1705972
+   },
+   "Tanzil Simple-clean": {
+    "flagged": 6347,
+    "items": 6348,
+    "labels": {
+     "L": 4608,
+     "D": 1739
+    },
+    "mismatch": false,
+    "bytes": 1731824
+   }
+  },
+  "qpc_out_of_profile": [
+   "U+0655 ARABIC HAMZA BELOW",
+   "U+0656 ARABIC SUBSCRIPT ALEF",
+   "U+0657 ARABIC INVERTED DAMMA",
+   "U+065E ARABIC FATHA WITH TWO DOTS",
+   "U+06D6 ARABIC SMALL HIGH LIGATURE SAD WITH LAM WITH ALEF MAKSURA",
+   "U+06D7 ARABIC SMALL HIGH LIGATURE QAF WITH LAM WITH ALEF MAKSURA",
+   "U+06D8 ARABIC SMALL HIGH MEEM INITIAL FORM",
+   "U+06DA ARABIC SMALL HIGH JEEM",
+   "U+06DB ARABIC SMALL HIGH THREE DOTS",
+   "U+06DE ARABIC START OF RUB EL HIZB",
+   "U+06E1 ARABIC SMALL HIGH DOTLESS HEAD OF KHAH",
+   "U+06E4 ARABIC SMALL HIGH MADDA",
+   "U+06E9 ARABIC PLACE OF SAJDAH"
+  ],
+  "table2": {
+   "Tanzil Uthmani": {
+    "code_points": 699519,
+    "utf8_bytes": 1327393,
+    "distinct": 62,
+    "distinct_after_nfc": 63,
+    "verses_changed_by_nfc": 5748,
+    "basmala_headers": 112,
+    "basmala_changed_by_nfc": 112
+   },
+   "Tanzil Uthmani-min": {
+    "code_points": 600484,
+    "utf8_bytes": 1129323,
+    "distinct": 56,
+    "distinct_after_nfc": 56,
+    "verses_changed_by_nfc": 5019,
+    "basmala_headers": 112,
+    "basmala_changed_by_nfc": 112
+   },
+   "Tanzil Simple": {
+    "code_points": 683309,
+    "utf8_bytes": 1294606,
+    "distinct": 46,
+    "distinct_after_nfc": 46,
+    "verses_changed_by_nfc": 5620,
+    "basmala_headers": 112,
+    "basmala_changed_by_nfc": 112
+   },
+   "Tanzil Simple-clean": {
+    "code_points": 404849,
+    "utf8_bytes": 737686,
+    "distinct": 37,
+    "distinct_after_nfc": 37,
+    "verses_changed_by_nfc": 0,
+    "basmala_headers": 112,
+    "basmala_changed_by_nfc": 0
+   },
+   "KFGQPC Hafs": {
+    "code_points": 699815,
+    "utf8_bytes": 1328237,
+    "distinct": 72,
+    "distinct_after_nfc": 73,
+    "verses_changed_by_nfc": 5722,
+    "basmala_headers": 0,
+    "basmala_changed_by_nfc": 0
+   }
+  }
+ },
+ "e4": {
+  "visual_pairs": {
+   "P1": {
+    "Noto Naskh Arabic": 1.0,
+    "Amiri": 1.0,
+    "Scheherazade New": 0.9466666666666667,
+    "Amiri Quran": 1.0,
+    "KFGQPC Uthmanic Hafs": 0.0
+   },
+   "P2": {
+    "Noto Naskh Arabic": 1.0,
+    "Amiri": 0.92,
+    "Scheherazade New": 1.0,
+    "Amiri Quran": 0.0,
+    "KFGQPC Uthmanic Hafs": 0.0
+   },
+   "P3": {
+    "Noto Naskh Arabic": 1.0,
+    "Amiri": 1.0,
+    "Scheherazade New": 1.0,
+    "Amiri Quran": 1.0,
+    "KFGQPC Uthmanic Hafs": 0.0
+   },
+   "P4": {
+    "Noto Naskh Arabic": 1.0,
+    "Amiri": 1.0,
+    "Scheherazade New": 1.0,
+    "Amiri Quran": 1.0,
+    "KFGQPC Uthmanic Hafs": 1.0
+   }
+  },
+  "select_font": "Noto Naskh Arabic",
+  "feasibility": {
+   "active_rules": [
+    "P1",
+    "P2",
+    "P3"
+   ],
+   "reorder": true,
+   "full_rank_32_homoglyph_only": 7,
+   "verses": 6236,
+   "full_rank_32": 121,
+   "share_full_rank": 0.019403463758819756,
+   "chars_in_full_rank_verses": 53005,
+   "chars_total": 695149,
+   "positions_median": 8.0,
+   "positions_mean": 10.176074406670942,
+   "positions_max": 115
+  },
+  "eligible_verses": 121,
+  "attacks": {
+   "attempts": 1000,
+   "attempts_letter": 500,
+   "crc_collision": 995,
+   "sha256_detects": 995,
+   "proposed_detects": 995,
+   "class_letter_U+L": 499,
+   "attempts_vowel": 500,
+   "class_vowel_U+D": 495,
+   "class_letter_U+D": 1
+  },
+  "swaps_median": 16.0,
+  "swaps_mean": 16.08542713567839,
+  "swaps_max": 25,
+  "visual_forgeries": {
+   "Noto Naskh Arabic": {
+    "rendered": 300,
+    "pixel_identical": 300
+   },
+   "Amiri": {
+    "rendered": 300,
+    "pixel_identical": 260
+   },
+   "Scheherazade New": {
+    "rendered": 300,
+    "pixel_identical": 193
+   },
+   "Amiri Quran": {
+    "rendered": 300,
+    "pixel_identical": 46
+   },
+   "KFGQPC Uthmanic Hafs": {
+    "rendered": 300,
+    "pixel_identical": 0
+   }
+  },
+  "suffix": {
+   "attempts": 300,
+   "crc_collision": 300,
+   "proposed_detects": 300,
+   "class_U+D": 300,
+   "skipped_no_vowel": 2
+  },
+  "suffix_pixel_identical": {
+   "Noto Naskh Arabic": 300,
+   "Amiri": 300,
+   "Scheherazade New": 300,
+   "Amiri Quran": 300,
+   "KFGQPC Uthmanic Hafs": 300
+  },
+  "seed": 7,
+  "n_render": 300
+ },
+ "e5": {
+  "platform": {
+   "python": "3.13.18",
+   "machine": "x86_64",
+   "processor": "Intel(R) Xeon(R) Processor @ 2.10GHz (2 vCPU)"
+  },
+  "canonicalise_all": {
+   "median_ms": 41.702622999991945,
+   "q1_ms": 40.637515499952315,
+   "q3_ms": 48.170160249924265
+  },
+  "table": {
+   "crc32": {
+    "median_ms": 0.537024999971436,
+    "q1_ms": 0.5076264999388513,
+    "q3_ms": 0.5733099999929436
+   },
+   "sha256": {
+    "median_ms": 2.384206999977323,
+    "q1_ms": 2.333501499947488,
+    "q3_ms": 2.4232080000388123
+   },
+   "sha3_256": {
+    "median_ms": 5.826836499977617,
+    "q1_ms": 5.267549749873979,
+    "q3_ms": 7.806203750021723
+   },
+   "blake2b256": {
+    "median_ms": 3.0447070001855536,
+    "q1_ms": 3.0242014999544153,
+    "q3_ms": 3.0770079999911104
+   },
+   "blake3": {
+    "median_ms": 2.678810499901374,
+    "q1_ms": 2.6542542499896626,
+    "q3_ms": 2.755391249877448
+   }
+  },
+  "registry_build": {
+   "sha256": {
+    "median_ms": 120.72183899988431,
+    "q1_ms": 119.62981699997499,
+    "q3_ms": 121.88934899995729
+   },
+   "sha3_256": {
+    "median_ms": 130.66276600000037,
+    "q1_ms": 128.1564992499966,
+    "q3_ms": 133.76807825000014
+   },
+   "blake2b256": {
+    "median_ms": 122.11804999992637,
+    "q1_ms": 121.71044749999282,
+    "q3_ms": 123.53189000015163
+   },
+   "blake3": {
+    "median_ms": 122.53430650002883,
+    "q1_ms": 122.13120950002576,
+    "q3_ms": 123.02209474995607
+   }
+  },
+  "ed25519": {
+   "sign": {
+    "median_ms": 0.026650000108929817,
+    "q1_ms": 0.026574999992590165,
+    "q3_ms": 0.026802499917266687
+   },
+   "verify": {
+    "median_ms": 0.08617400010280107,
+    "q1_ms": 0.08572774999038302,
+    "q3_ms": 0.08749099993110576
+   },
+   "signature_bytes": 64,
+   "statement_bytes": 101
+  },
+  "proofs": {
+   "n": 6348,
+   "all_valid": true,
+   "gen_us_per_verse": 6.127436042857529,
+   "verify_us_per_verse": 13.558388783868065,
+   "bytes_min": 228,
+   "bytes_mean": 471.2211720226843,
+   "bytes_max": 548
+  },
+  "storage_bytes": {
+   "crc32_table": 25392,
+   "sha256_table": 203136,
+   "signed_statement": 165,
+   "edition_utf8": 1327281,
+   "items": 6348
+  },
+  "full_verify_intact": {
+   "median_ms": 50.9658274999083,
+   "q1_ms": 50.83226475005631,
+   "q3_ms": 51.06677274989124
+  },
+  "detection_only_bytes": 165,
+  "localisation": [
+   {
+    "k": 1,
+    "hashes_mean": 26.84,
+    "hashes_max": 32,
+    "bytes_mean": 1231.17,
+    "bytes_max": 2225,
+    "exact": 1.0,
+    "runs": 100,
+    "table_hashes": 6348,
+    "table_bytes": 203136
+   },
+   {
+    "k": 2,
+    "hashes_mean": 49.36,
+    "hashes_max": 56,
+    "bytes_mean": 2181.41,
+    "bytes_max": 3106,
+    "exact": 1.0,
+    "runs": 100,
+    "table_hashes": 6348,
+    "table_bytes": 203136
+   },
+   {
+    "k": 4,
+    "hashes_mean": 89.4,
+    "hashes_max": 100,
+    "bytes_mean": 3939.25,
+    "bytes_max": 4880,
+    "exact": 1.0,
+    "runs": 100,
+    "table_hashes": 6348,
+    "table_bytes": 203136
+   },
+   {
+    "k": 8,
+    "hashes_mean": 162,
+    "hashes_max": 180,
+    "bytes_mean": 7189.87,
+    "bytes_max": 8297,
+    "exact": 1.0,
+    "runs": 100,
+    "table_hashes": 6348,
+    "table_bytes": 203136
+   },
+   {
+    "k": 16,
+    "hashes_mean": 290.96,
+    "hashes_max": 320,
+    "bytes_mean": 13251.34,
+    "bytes_max": 14965,
+    "exact": 1.0,
+    "runs": 100,
+    "table_hashes": 6348,
+    "table_bytes": 203136
+   },
+   {
+    "k": 32,
+    "hashes_mean": 514,
+    "hashes_max": 562,
+    "bytes_mean": 24096.5,
+    "bytes_max": 27273,
+    "exact": 1.0,
+    "runs": 100,
+    "table_hashes": 6348,
+    "table_bytes": 203136
+   },
+   {
+    "k": 64,
+    "hashes_mean": 891.38,
+    "hashes_max": 940,
+    "bytes_mean": 43775.14,
+    "bytes_max": 47797,
+    "exact": 1.0,
+    "runs": 100,
+    "table_hashes": 6348,
+    "table_bytes": 203136
+   },
+   {
+    "k": 128,
+    "hashes_mean": 1516.86,
+    "hashes_max": 1588,
+    "bytes_mean": 78002.64,
+    "bytes_max": 83551,
+    "exact": 1.0,
+    "runs": 100,
+    "table_hashes": 6348,
+    "table_bytes": 203136
+   },
+   {
+    "k": 256,
+    "hashes_mean": 2519.42,
+    "hashes_max": 2600,
+    "bytes_mean": 137882.92,
+    "bytes_max": 145346,
+    "exact": 1.0,
+    "runs": 100,
+    "table_hashes": 6348,
+    "table_bytes": 203136
+   }
+  ]
+ },
+ "e6": {
+  "meta": {
+   "quran_api_commit": "93e6f64925ae76273520d636fcaaf061129f2316",
+   "npm": {
+    "quran": "0.0.9",
+    "quran-cloud": "1.0.0",
+    "@muslims-community/quran": "1.1.0"
+   },
+   "fetched": "2026-11-11",
+   "excluded": {
+    "ara-kingfahadquranc": "tafsir text (al-Muyassar), not the Quran text",
+    "ara-quranuthmanienc": "byte-identical to ara-quranacademy (same SHA-256)"
+   }
+  },
+  "copies": [
+   {
+    "id": "api-uthmanihaf",
+    "label": "quran-api: Uthmani Hafs",
+    "channel": "API/CDN",
+    "file": "api-ara-quranuthmanihaf.json",
+    "verses": 6236,
+    "chapters": 114,
+    "basmala_headers_split": 0,
+    "distinct_code_points": 69,
+    "verses_not_nfc": 5369,
+    "verses_not_nfd": 434,
+    "farsi_yeh_U06CC": 0,
+    "tatweel_U0640": 535,
+    "default_ignorable": 820,
+    "match": {
+     "uthmani": {
+      "shared": 6236,
+      "raw": 27,
+      "canonical": 78,
+      "sigma": 2874,
+      "sigma_star": 4498
+     },
+     "uthmani-min": {
+      "shared": 6236,
+      "raw": 1,
+      "canonical": 4,
+      "sigma": 2879,
+      "sigma_star": 4498
+     },
+     "simple": {
+      "shared": 6236,
+      "raw": 3,
+      "canonical": 21,
+      "sigma": 1807,
+      "sigma_star": 1807
+     },
+     "simple-clean": {
+      "shared": 6236,
+      "raw": 1,
+      "canonical": 1,
+      "sigma": 1807,
+      "sigma_star": 1807
+     },
+     "qpc-hafs": {
+      "shared": 6236,
+      "raw": 156,
+      "canonical": 2506,
+      "sigma": 4501,
+      "sigma_star": 4501
+     }
+    },
+    "closest": "qpc-hafs",
+    "canonical_only_equal": 2350,
+    "verse_level": {
+     "b3_raw_flagged": 6080,
+     "kappa_flagged": 3730,
+     "equal_to_nfd_of_ref": 2506,
+     "copy_verses_in_nfd": 5802,
+     "ref_verses_in_nfd": 243
+    },
+    "invisible_by_cp": {
+     "U+200F": 820
+    },
+    "nonascii_space_by_cp": {},
+    "sigma_star_hamza_reencoding_only": 0,
+    "sigma_star_differ_after_repair": 1735,
+    "out_of_profile_by_cp": {
+     "U+065C": 1,
+     "U+08F0": 2901,
+     "U+08F1": 1807,
+     "U+08F2": 1935,
+     "U+200F": 820
+    },
+    "accepted": false,
+    "findings": 3730,
+    "labels": {
+     "D": 212,
+     "U+D": 1783,
+     "U+L": 1735
+    },
+    "mismatch_flag": true,
+    "verse0_findings": 0,
+    "verify_ms": 932.5
+   },
+   {
+    "id": "api-simple",
+    "label": "quran-api: Simple",
+    "channel": "API/CDN",
+    "file": "api-ara-quransimple.json",
+    "verses": 6236,
+    "chapters": 114,
+    "basmala_headers_split": 112,
+    "distinct_code_points": 55,
+    "verses_not_nfc": 5445,
+    "verses_not_nfd": 5981,
+    "farsi_yeh_U06CC": 0,
+    "tatweel_U0640": 0,
+    "default_ignorable": 0,
+    "match": {
+     "uthmani": {
+      "shared": 6236,
+      "raw": 179,
+      "canonical": 179,
+      "sigma": 1627,
+      "sigma_star": 2250
+     },
+     "uthmani-min": {
+      "shared": 6236,
+      "raw": 25,
+      "canonical": 25,
+      "sigma": 1627,
+      "sigma_star": 2250
+     },
+     "simple": {
+      "shared": 6236,
+      "raw": 1739,
+      "canonical": 1739,
+      "sigma": 6230,
+      "sigma_star": 6230
+     },
+     "simple-clean": {
+      "shared": 6236,
+      "raw": 20,
+      "canonical": 20,
+      "sigma": 6230,
+      "sigma_star": 6230
+     },
+     "qpc-hafs": {
+      "shared": 6236,
+      "raw": 13,
+      "canonical": 13,
+      "sigma": 2248,
+      "sigma_star": 2248
+     }
+    },
+    "closest": "simple",
+    "canonical_only_equal": 0,
+    "verse_level": {
+     "b3_raw_flagged": 4497,
+     "kappa_flagged": 4497,
+     "equal_to_nfd_of_ref": 178,
+     "copy_verses_in_nfd": 255,
+     "ref_verses_in_nfd": 216
+    },
+    "invisible_by_cp": {},
+    "nonascii_space_by_cp": {},
+    "sigma_star_hamza_reencoding_only": 0,
+    "sigma_star_differ_after_repair": 6,
+    "out_of_profile_by_cp": {
+     "U+06D6": 1682,
+     "U+06D7": 603,
+     "U+06D8": 22,
+     "U+06D9": 68,
+     "U+06DA": 1972,
+     "U+06DB": 12,
+     "U+06DC": 5,
+     "U+06DE": 199,
+     "U+06E9": 15
+    },
+    "accepted": false,
+    "findings": 4499,
+    "labels": {
+     "D": 1778,
+     "L": 2,
+     "U+D": 2715,
+     "U+L": 4
+    },
+    "mismatch_flag": true,
+    "verse0_findings": 2,
+    "verify_ms": 880.4
+   },
+   {
+    "id": "api-academy",
+    "label": "quran-api: Quran Academy",
+    "channel": "API/CDN",
+    "file": "api-ara-quranacademy.json",
+    "verses": 6236,
+    "chapters": 114,
+    "basmala_headers_split": 0,
+    "distinct_code_points": 74,
+    "verses_not_nfc": 5621,
+    "verses_not_nfd": 5989,
+    "farsi_yeh_U06CC": 21912,
+    "tatweel_U0640": 5963,
+    "default_ignorable": 0,
+    "match": {
+     "uthmani": {
+      "shared": 6236,
+      "raw": 30,
+      "canonical": 30,
+      "sigma": 571,
+      "sigma_star": 571
+     },
+     "uthmani-min": {
+      "shared": 6236,
+      "raw": 3,
+      "canonical": 3,
+      "sigma": 571,
+      "sigma_star": 571
+     },
+     "simple": {
+      "shared": 6236,
+      "raw": 17,
+      "canonical": 17,
+      "sigma": 414,
+      "sigma_star": 414
+     },
+     "simple-clean": {
+      "shared": 6236,
+      "raw": 0,
+      "canonical": 0,
+      "sigma": 414,
+      "sigma_star": 414
+     },
+     "qpc-hafs": {
+      "shared": 6236,
+      "raw": 203,
+      "canonical": 203,
+      "sigma": 571,
+      "sigma_star": 571
+     }
+    },
+    "closest": "qpc-hafs",
+    "canonical_only_equal": 0,
+    "verse_level": {
+     "b3_raw_flagged": 6033,
+     "kappa_flagged": 6033,
+     "equal_to_nfd_of_ref": 27,
+     "copy_verses_in_nfd": 247,
+     "ref_verses_in_nfd": 243
+    },
+    "invisible_by_cp": {},
+    "nonascii_space_by_cp": {
+     "U+00A0": 1631
+    },
+    "sigma_star_hamza_reencoding_only": 10,
+    "sigma_star_differ_after_repair": 1708,
+    "out_of_profile_by_cp": {
+     "U+00A0": 1631,
+     "U+0305": 133,
+     "U+06CC": 21912,
+     "U+06DF": 3988,
+     "U+06E3": 2,
+     "U+06EB": 1,
+     "U+08F0": 2901,
+     "U+08F1": 1807,
+     "U+08F2": 1935,
+     "U+08F3": 1
+    },
+    "accepted": false,
+    "findings": 6033,
+    "labels": {
+     "D": 131,
+     "L": 14,
+     "U": 379,
+     "U+D": 2161,
+     "U+L": 3348
+    },
+    "mismatch_flag": true,
+    "verse0_findings": 0,
+    "verify_ms": 912.0
+   },
+   {
+    "id": "api-indopak",
+    "label": "quran-api: IndoPak",
+    "channel": "API/CDN",
+    "file": "api-ara-quranindopak.json",
+    "verses": 6236,
+    "chapters": 114,
+    "basmala_headers_split": 0,
+    "distinct_code_points": 74,
+    "verses_not_nfc": 2193,
+    "verses_not_nfd": 253,
+    "farsi_yeh_U06CC": 0,
+    "tatweel_U0640": 269,
+    "default_ignorable": 2796,
+    "match": {
+     "uthmani": {
+      "shared": 6236,
+      "raw": 1,
+      "canonical": 1,
+      "sigma": 2046,
+      "sigma_star": 4164
+     },
+     "uthmani-min": {
+      "shared": 6236,
+      "raw": 0,
+      "canonical": 0,
+      "sigma": 2050,
+      "sigma_star": 4165
+     },
+     "simple": {
+      "shared": 6236,
+      "raw": 0,
+      "canonical": 0,
+      "sigma": 2075,
+      "sigma_star": 2823
+     },
+     "simple-clean": {
+      "shared": 6236,
+      "raw": 0,
+      "canonical": 0,
+      "sigma": 2075,
+      "sigma_star": 2823
+     },
+     "qpc-hafs": {
+      "shared": 6236,
+      "raw": 1,
+      "canonical": 1,
+      "sigma": 2992,
+      "sigma_star": 4164
+     }
+    },
+    "closest": "uthmani",
+    "canonical_only_equal": 0,
+    "verse_level": {
+     "b3_raw_flagged": 6235,
+     "kappa_flagged": 6235,
+     "equal_to_nfd_of_ref": 1,
+     "copy_verses_in_nfd": 5983,
+     "ref_verses_in_nfd": 235
+    },
+    "invisible_by_cp": {
+     "U+200F": 2796
+    },
+    "nonascii_space_by_cp": {},
+    "sigma_star_hamza_reencoding_only": 0,
+    "sigma_star_differ_after_repair": 2072,
+    "out_of_profile_by_cp": {
+     "U+0614": 30,
+     "U+0615": 3540,
+     "U+0617": 239,
+     "U+0655": 29,
+     "U+0656": 993,
+     "U+0657": 1257,
+     "U+0658": 3027,
+     "U+06D6": 226,
+     "U+06D8": 88,
+     "U+06D9": 1544,
+     "U+06DA": 1692,
+     "U+06DB": 68,
+     "U+06E1": 62381,
+     "U+08D4": 2,
+     "U+08D5": 149,
+     "U+08D6": 558,
+     "U+08D7": 129,
+     "U+08DA": 2,
+     "U+08DB": 14,
+     "U+08DD": 8,
+     "U+08DE": 135,
+     "U+08DF": 11,
+     "U+08E0": 2,
+     "U+08E1": 3,
+     "U+08E2": 116,
+     "U+200F": 2796
+    },
+    "accepted": false,
+    "findings": 6347,
+    "labels": {
+     "D": 4,
+     "L": 25,
+     "S-del": 112,
+     "U+D": 2041,
+     "U+L": 4165
+    },
+    "mismatch_flag": true,
+    "verse0_findings": 112,
+    "verify_ms": 1230.8
+   },
+   {
+    "id": "api-khaledhosn",
+    "label": "quran-api: Khaled Hosney",
+    "channel": "API/CDN",
+    "file": "api-ara-qurankhaledhosn.json",
+    "verses": 6236,
+    "chapters": 114,
+    "basmala_headers_split": 0,
+    "distinct_code_points": 75,
+    "verses_not_nfc": 5717,
+    "verses_not_nfd": 6028,
+    "farsi_yeh_U06CC": 22024,
+    "tatweel_U0640": 6847,
+    "default_ignorable": 1377,
+    "match": {
+     "uthmani": {
+      "shared": 6236,
+      "raw": 28,
+      "canonical": 28,
+      "sigma": 521,
+      "sigma_star": 542
+     },
+     "uthmani-min": {
+      "shared": 6236,
+      "raw": 3,
+      "canonical": 3,
+      "sigma": 521,
+      "sigma_star": 542
+     },
+     "simple": {
+      "shared": 6236,
+      "raw": 17,
+      "canonical": 17,
+      "sigma": 366,
+      "sigma_star": 378
+     },
+     "simple-clean": {
+      "shared": 6236,
+      "raw": 0,
+      "canonical": 0,
+      "sigma": 366,
+      "sigma_star": 378
+     },
+     "qpc-hafs": {
+      "shared": 6236,
+      "raw": 187,
+      "canonical": 187,
+      "sigma": 521,
+      "sigma_star": 542
+     }
+    },
+    "closest": "qpc-hafs",
+    "canonical_only_equal": 0,
+    "verse_level": {
+     "b3_raw_flagged": 6049,
+     "kappa_flagged": 6049,
+     "equal_to_nfd_of_ref": 24,
+     "copy_verses_in_nfd": 208,
+     "ref_verses_in_nfd": 243
+    },
+    "invisible_by_cp": {
+     "U+2060": 1377
+    },
+    "nonascii_space_by_cp": {
+     "U+200A": 1386
+    },
+    "sigma_star_hamza_reencoding_only": 0,
+    "sigma_star_differ_after_repair": 1264,
+    "out_of_profile_by_cp": {
+     "U+065C": 1,
+     "U+06CC": 22024,
+     "U+06DF": 3988,
+     "U+06E3": 1,
+     "U+08F0": 2901,
+     "U+08F1": 1807,
+     "U+08F2": 1935,
+     "U+08F3": 1,
+     "U+200A": 1386,
+     "U+2060": 1377
+    },
+    "accepted": false,
+    "findings": 6049,
+    "labels": {
+     "D": 130,
+     "L": 7,
+     "U": 373,
+     "U+D": 2041,
+     "U+L": 3498
+    },
+    "mismatch_flag": true,
+    "verse0_findings": 0,
+    "verify_ms": 853.9
+   },
+   {
+    "id": "api-uthmanihaf1",
+    "label": "quran-api: Uthmani Hafs, no diacritics",
+    "channel": "API/CDN",
+    "file": "api-ara-quranuthmanihaf1.json",
+    "verses": 6236,
+    "chapters": 114,
+    "basmala_headers_split": 0,
+    "distinct_code_points": 34,
+    "verses_not_nfc": 0,
+    "verses_not_nfd": 0,
+    "farsi_yeh_U06CC": 0,
+    "tatweel_U0640": 0,
+    "default_ignorable": 0,
+    "match": {
+     "uthmani": {
+      "shared": 6236,
+      "raw": 1,
+      "canonical": 1,
+      "sigma": 2874,
+      "sigma_star": 4498
+     },
+     "uthmani-min": {
+      "shared": 6236,
+      "raw": 20,
+      "canonical": 20,
+      "sigma": 2879,
+      "sigma_star": 4498
+     },
+     "simple": {
+      "shared": 6236,
+      "raw": 20,
+      "canonical": 20,
+      "sigma": 1807,
+      "sigma_star": 1807
+     },
+     "simple-clean": {
+      "shared": 6236,
+      "raw": 481,
+      "canonical": 481,
+      "sigma": 1807,
+      "sigma_star": 1807
+     },
+     "qpc-hafs": {
+      "shared": 6236,
+      "raw": 1,
+      "canonical": 1,
+      "sigma": 4501,
+      "sigma_star": 4501
+     }
+    },
+    "closest": "simple-clean",
+    "canonical_only_equal": 0,
+    "verse_level": {
+     "b3_raw_flagged": 5755,
+     "kappa_flagged": 5755,
+     "equal_to_nfd_of_ref": 481,
+     "copy_verses_in_nfd": 6236,
+     "ref_verses_in_nfd": 880
+    },
+    "invisible_by_cp": {},
+    "nonascii_space_by_cp": {},
+    "sigma_star_hamza_reencoding_only": 0,
+    "sigma_star_differ_after_repair": 4429,
+    "out_of_profile_by_cp": {
+     "U+06DE": 199,
+     "U+06E9": 15
+    },
+    "accepted": false,
+    "findings": 5867,
+    "labels": {
+     "D": 1289,
+     "L": 4252,
+     "S-del": 112,
+     "U+D": 37,
+     "U+L": 177
+    },
+    "mismatch_flag": false,
+    "verse0_findings": 112,
+    "verify_ms": 600.7
+   },
+   {
+    "id": "api-spelled",
+    "label": "quran-api: Spelled",
+    "channel": "API/CDN",
+    "file": "api-ara-quranspelled.json",
+    "verses": 6236,
+    "chapters": 114,
+    "basmala_headers_split": 0,
+    "distinct_code_points": 45,
+    "verses_not_nfc": 0,
+    "verses_not_nfd": 5356,
+    "farsi_yeh_U06CC": 0,
+    "tatweel_U0640": 0,
+    "default_ignorable": 0,
+    "match": {
+     "uthmani": {
+      "shared": 6236,
+      "raw": 79,
+      "canonical": 151,
+      "sigma": 1626,
+      "sigma_star": 2249
+     },
+     "uthmani-min": {
+      "shared": 6236,
+      "raw": 20,
+      "canonical": 25,
+      "sigma": 1626,
+      "sigma_star": 2249
+     },
+     "simple": {
+      "shared": 6236,
+      "raw": 353,
+      "canonical": 1601,
+      "sigma": 6227,
+      "sigma_star": 6227
+     },
+     "simple-clean": {
+      "shared": 6236,
+      "raw": 20,
+      "canonical": 20,
+      "sigma": 6227,
+      "sigma_star": 6227
+     },
+     "qpc-hafs": {
+      "shared": 6236,
+      "raw": 2,
+      "canonical": 8,
+      "sigma": 2247,
+      "sigma_star": 2247
+     }
+    },
+    "closest": "simple",
+    "canonical_only_equal": 1248,
+    "verse_level": {
+     "b3_raw_flagged": 5883,
+     "kappa_flagged": 4635,
+     "equal_to_nfd_of_ref": 438,
+     "copy_verses_in_nfd": 880,
+     "ref_verses_in_nfd": 216
+    },
+    "invisible_by_cp": {},
+    "nonascii_space_by_cp": {},
+    "sigma_star_hamza_reencoding_only": 0,
+    "sigma_star_differ_after_repair": 9,
+    "out_of_profile_by_cp": {},
+    "accepted": false,
+    "findings": 4747,
+    "labels": {
+     "D": 4626,
+     "L": 9,
+     "S-del": 112
+    },
+    "mismatch_flag": false,
+    "verse0_findings": 112,
+    "verify_ms": 1057.9
+   },
+   {
+    "id": "npm-quran",
+    "label": "npm quran 0.0.9",
+    "channel": "npm",
+    "file": "npm-quran-0.0.9.sqlite",
+    "verses": 6236,
+    "chapters": 114,
+    "basmala_headers_split": 112,
+    "distinct_code_points": 61,
+    "verses_not_nfc": 5771,
+    "verses_not_nfd": 6024,
+    "farsi_yeh_U06CC": 0,
+    "tatweel_U0640": 495,
+    "default_ignorable": 0,
+    "match": {
+     "uthmani": {
+      "shared": 6236,
+      "raw": 5927,
+      "canonical": 5927,
+      "sigma": 5960,
+      "sigma_star": 5960
+     },
+     "uthmani-min": {
+      "shared": 6236,
+      "raw": 4,
+      "canonical": 4,
+      "sigma": 5942,
+      "sigma_star": 5959
+     },
+     "simple": {
+      "shared": 6236,
+      "raw": 344,
+      "canonical": 344,
+      "sigma": 1597,
+      "sigma_star": 2188
+     },
+     "simple-clean": {
+      "shared": 6236,
+      "raw": 1,
+      "canonical": 1,
+      "sigma": 1597,
+      "sigma_star": 2188
+     },
+     "qpc-hafs": {
+      "shared": 6236,
+      "raw": 78,
+      "canonical": 78,
+      "sigma": 3741,
+      "sigma_star": 5956
+     }
+    },
+    "closest": "uthmani",
+    "canonical_only_equal": 0,
+    "verse_level": {
+     "b3_raw_flagged": 309,
+     "kappa_flagged": 309,
+     "equal_to_nfd_of_ref": 235,
+     "copy_verses_in_nfd": 212,
+     "ref_verses_in_nfd": 235
+    },
+    "invisible_by_cp": {},
+    "nonascii_space_by_cp": {},
+    "sigma_star_hamza_reencoding_only": 250,
+    "sigma_star_differ_after_repair": 276,
+    "out_of_profile_by_cp": {},
+    "accepted": false,
+    "findings": 309,
+    "labels": {
+     "D": 33,
+     "L": 276
+    },
+    "mismatch_flag": false,
+    "verse0_findings": 0,
+    "verify_ms": 124.9
+   },
+   {
+    "id": "npm-quran-cloud",
+    "label": "npm quran-cloud 1.0.0",
+    "channel": "npm",
+    "file": "npm-quran-cloud-1.0.0.json",
+    "verses": 6236,
+    "chapters": 114,
+    "basmala_headers_split": 0,
+    "distinct_code_points": 73,
+    "verses_not_nfc": 5722,
+    "verses_not_nfd": 5993,
+    "farsi_yeh_U06CC": 0,
+    "tatweel_U0640": 1652,
+    "default_ignorable": 0,
+    "match": {
+     "uthmani": {
+      "shared": 6236,
+      "raw": 76,
+      "canonical": 76,
+      "sigma": 3845,
+      "sigma_star": 6230
+     },
+     "uthmani-min": {
+      "shared": 6236,
+      "raw": 4,
+      "canonical": 4,
+      "sigma": 3850,
+      "sigma_star": 6230
+     },
+     "simple": {
+      "shared": 6236,
+      "raw": 21,
+      "canonical": 21,
+      "sigma": 2248,
+      "sigma_star": 2248
+     },
+     "simple-clean": {
+      "shared": 6236,
+      "raw": 1,
+      "canonical": 1,
+      "sigma": 2248,
+      "sigma_star": 2248
+     },
+     "qpc-hafs": {
+      "shared": 6236,
+      "raw": 4810,
+      "canonical": 4810,
+      "sigma": 6233,
+      "sigma_star": 6233
+     }
+    },
+    "closest": "qpc-hafs",
+    "canonical_only_equal": 0,
+    "verse_level": {
+     "b3_raw_flagged": 1426,
+     "kappa_flagged": 1426,
+     "equal_to_nfd_of_ref": 238,
+     "copy_verses_in_nfd": 243,
+     "ref_verses_in_nfd": 243
+    },
+    "invisible_by_cp": {},
+    "nonascii_space_by_cp": {
+     "U+2009": 1
+    },
+    "sigma_star_hamza_reencoding_only": 0,
+    "sigma_star_differ_after_repair": 3,
+    "out_of_profile_by_cp": {
+     "U+065C": 1,
+     "U+2009": 1
+    },
+    "accepted": false,
+    "findings": 1426,
+    "labels": {
+     "D": 1422,
+     "L": 2,
+     "U+D": 1,
+     "U+L": 1
+    },
+    "mismatch_flag": false,
+    "verse0_findings": 0,
+    "verify_ms": 346.1
+   },
+   {
+    "id": "npm-muslims",
+    "label": "npm @muslims-community/quran 1.1.0",
+    "channel": "npm",
+    "file": "npm-muslims-community-quran-1.1.0.json",
+    "verses": 6236,
+    "chapters": 114,
+    "basmala_headers_split": 0,
+    "distinct_code_points": 56,
+    "verses_not_nfc": 5019,
+    "verses_not_nfd": 5828,
+    "farsi_yeh_U06CC": 0,
+    "tatweel_U0640": 812,
+    "default_ignorable": 0,
+    "match": {
+     "uthmani": {
+      "shared": 6236,
+      "raw": 4,
+      "canonical": 4,
+      "sigma": 6216,
+      "sigma_star": 6235
+     },
+     "uthmani-min": {
+      "shared": 6236,
+      "raw": 6236,
+      "canonical": 6236,
+      "sigma": 6236,
+      "sigma_star": 6236
+     },
+     "simple": {
+      "shared": 6236,
+      "raw": 25,
+      "canonical": 25,
+      "sigma": 1628,
+      "sigma_star": 2251
+     },
+     "simple-clean": {
+      "shared": 6236,
+      "raw": 20,
+      "canonical": 20,
+      "sigma": 1628,
+      "sigma_star": 2251
+     },
+     "qpc-hafs": {
+      "shared": 6236,
+      "raw": 4,
+      "canonical": 4,
+      "sigma": 3852,
+      "sigma_star": 6233
+     }
+    },
+    "closest": "uthmani-min",
+    "canonical_only_equal": 0,
+    "verse_level": {
+     "b3_raw_flagged": 0,
+     "kappa_flagged": 0,
+     "equal_to_nfd_of_ref": 408,
+     "copy_verses_in_nfd": 408,
+     "ref_verses_in_nfd": 408
+    },
+    "invisible_by_cp": {},
+    "nonascii_space_by_cp": {},
+    "sigma_star_hamza_reencoding_only": 0,
+    "sigma_star_differ_after_repair": 0,
+    "out_of_profile_by_cp": {},
+    "accepted": false,
+    "findings": 112,
+    "labels": {
+     "S-del": 112
+    },
+    "mismatch_flag": false,
+    "verse0_findings": 112,
+    "verify_ms": 564.9
+   }
+  ]
+ },
+ "e7": {
+  "engine": "fontkit 2.0.4",
+  "sets": {
+   "NFC": {
+    "pairs": 5720,
+    "fonts": {
+     "Noto Naskh Arabic": {
+      "ink_identical": 1702,
+      "advance_identical": 5720,
+      "errors": 0,
+      "notdef_pairs": 0,
+      "examples": [
+       [
+        11,
+        11
+       ],
+       [
+        14,
+        13
+       ],
+       [
+        14,
+        14
+       ]
+      ]
+     },
+     "Amiri": {
+      "ink_identical": 912,
+      "advance_identical": 4763,
+      "errors": 0,
+      "notdef_pairs": 0,
+      "examples": [
+       [
+        11,
+        11
+       ],
+       [
+        13,
+        12
+       ],
+       [
+        12,
+        11
+       ]
+      ]
+     },
+     "Scheherazade New": {
+      "ink_identical": 5683,
+      "advance_identical": 5720,
+      "errors": 0,
+      "notdef_pairs": 0,
+      "examples": [
+       [
+        12,
+        11
+       ],
+       [
+        10,
+        10
+       ],
+       [
+        9,
+        9
+       ]
+      ]
+     },
+     "Amiri Quran": {
+      "ink_identical": 0,
+      "advance_identical": 0,
+      "errors": 5720,
+      "notdef_pairs": 0,
+      "examples": [],
+      "error": "Cannot read properties of null (reading 'xCoordinate')"
+     },
+     "KFGQPC Uthmanic Hafs": {
+      "ink_identical": 925,
+      "advance_identical": 4730,
+      "errors": 0,
+      "notdef_pairs": 0,
+      "examples": [
+       [
+        11,
+        11
+       ],
+       [
+        13,
+        12
+       ],
+       [
+        12,
+        11
+       ]
+      ]
+     }
+    }
+   },
+   "NFD": {
+    "pairs": 8167,
+    "fonts": {
+     "Noto Naskh Arabic": {
+      "ink_identical": 938,
+      "advance_identical": 7855,
+      "errors": 0,
+      "notdef_pairs": 0,
+      "examples": [
+       [
+        11,
+        12
+       ],
+       [
+        11,
+        12
+       ],
+       [
+        10,
+        11
+       ]
+      ]
+     },
+     "Amiri": {
+      "ink_identical": 825,
+      "advance_identical": 5245,
+      "errors": 0,
+      "notdef_pairs": 0,
+      "examples": [
+       [
+        11,
+        12
+       ],
+       [
+        11,
+        12
+       ],
+       [
+        10,
+        11
+       ]
+      ]
+     },
+     "Scheherazade New": {
+      "ink_identical": 6930,
+      "advance_identical": 8102,
+      "errors": 0,
+      "notdef_pairs": 0,
+      "examples": [
+       [
+        14,
+        15
+       ],
+       [
+        12,
+        13
+       ],
+       [
+        13,
+        14
+       ]
+      ]
+     },
+     "Amiri Quran": {
+      "ink_identical": 0,
+      "advance_identical": 5,
+      "errors": 8162,
+      "notdef_pairs": 0,
+      "examples": [
+       [
+        3,
+        4
+       ],
+       [
+        4,
+        5
+       ],
+       [
+        3,
+        4
+       ]
+      ],
+      "error": "Cannot read properties of null (reading 'xCoordinate')"
+     },
+     "KFGQPC Uthmanic Hafs": {
+      "ink_identical": 830,
+      "advance_identical": 4240,
+      "errors": 0,
+      "notdef_pairs": 0,
+      "examples": [
+       [
+        11,
+        12
+       ],
+       [
+        11,
+        12
+       ],
+       [
+        10,
+        11
+       ]
+      ]
+     }
+    }
+   },
+   "single_P1": {
+    "pairs": 300,
+    "fonts": {
+     "Noto Naskh Arabic": {
+      "ink_identical": 300,
+      "advance_identical": 300,
+      "errors": 0,
+      "notdef_pairs": 0,
+      "examples": []
+     },
+     "Amiri": {
+      "ink_identical": 300,
+      "advance_identical": 300,
+      "errors": 0,
+      "notdef_pairs": 0,
+      "examples": []
+     },
+     "Scheherazade New": {
+      "ink_identical": 283,
+      "advance_identical": 283,
+      "errors": 0,
+      "notdef_pairs": 0,
+      "examples": [
+       [
+        253,
+        253
+       ],
+       [
+        98,
+        98
+       ],
+       [
+        56,
+        56
+       ]
+      ]
+     },
+     "Amiri Quran": {
+      "ink_identical": 0,
+      "advance_identical": 0,
+      "errors": 300,
+      "notdef_pairs": 0,
+      "examples": [],
+      "error": "Cannot read properties of null (reading 'xCoordinate')"
+     },
+     "KFGQPC Uthmanic Hafs": {
+      "ink_identical": 0,
+      "advance_identical": 0,
+      "errors": 0,
+      "notdef_pairs": 0,
+      "examples": [
+       [
+        159,
+        159
+       ],
+       [
+        103,
+        103
+       ],
+       [
+        200,
+        200
+       ]
+      ]
+     }
+    }
+   },
+   "single_P2": {
+    "pairs": 300,
+    "fonts": {
+     "Noto Naskh Arabic": {
+      "ink_identical": 300,
+      "advance_identical": 300,
+      "errors": 0,
+      "notdef_pairs": 0,
+      "examples": []
+     },
+     "Amiri": {
+      "ink_identical": 276,
+      "advance_identical": 276,
+      "errors": 0,
+      "notdef_pairs": 0,
+      "examples": [
+       [
+        143,
+        143
+       ],
+       [
+        41,
+        41
+       ],
+       [
+        155,
+        155
+       ]
+      ]
+     },
+     "Scheherazade New": {
+      "ink_identical": 300,
+      "advance_identical": 300,
+      "errors": 0,
+      "notdef_pairs": 0,
+      "examples": []
+     },
+     "Amiri Quran": {
+      "ink_identical": 0,
+      "advance_identical": 0,
+      "errors": 300,
+      "notdef_pairs": 0,
+      "examples": [],
+      "error": "Cannot read properties of null (reading 'xCoordinate')"
+     },
+     "KFGQPC Uthmanic Hafs": {
+      "ink_identical": 0,
+      "advance_identical": 0,
+      "errors": 0,
+      "notdef_pairs": 0,
+      "examples": [
+       [
+        106,
+        106
+       ],
+       [
+        36,
+        36
+       ],
+       [
+        279,
+        279
+       ]
+      ]
+     }
+    }
+   },
+   "single_P3": {
+    "pairs": 300,
+    "fonts": {
+     "Noto Naskh Arabic": {
+      "ink_identical": 300,
+      "advance_identical": 300,
+      "errors": 0,
+      "notdef_pairs": 0,
+      "examples": []
+     },
+     "Amiri": {
+      "ink_identical": 300,
+      "advance_identical": 300,
+      "errors": 0,
+      "notdef_pairs": 0,
+      "examples": []
+     },
+     "Scheherazade New": {
+      "ink_identical": 300,
+      "advance_identical": 300,
+      "errors": 0,
+      "notdef_pairs": 0,
+      "examples": []
+     },
+     "Amiri Quran": {
+      "ink_identical": 0,
+      "advance_identical": 0,
+      "errors": 300,
+      "notdef_pairs": 0,
+      "examples": [],
+      "error": "Cannot read properties of null (reading 'xCoordinate')"
+     },
+     "KFGQPC Uthmanic Hafs": {
+      "ink_identical": 0,
+      "advance_identical": 0,
+      "errors": 0,
+      "notdef_pairs": 0,
+      "examples": [
+       [
+        78,
+        78
+       ],
+       [
+        44,
+        44
+       ],
+       [
+        261,
+        261
+       ]
+      ]
+     }
+    }
+   },
+   "single_P4": {
+    "pairs": 300,
+    "fonts": {
+     "Noto Naskh Arabic": {
+      "ink_identical": 43,
+      "advance_identical": 300,
+      "errors": 0,
+      "notdef_pairs": 0,
+      "examples": [
+       [
+        114,
+        114
+       ],
+       [
+        73,
+        73
+       ],
+       [
+        137,
+        137
+       ]
+      ]
+     },
+     "Amiri": {
+      "ink_identical": 46,
+      "advance_identical": 273,
+      "errors": 0,
+      "notdef_pairs": 0,
+      "examples": [
+       [
+        114,
+        114
+       ],
+       [
+        73,
+        73
+       ],
+       [
+        137,
+        137
+       ]
+      ]
+     },
+     "Scheherazade New": {
+      "ink_identical": 247,
+      "advance_identical": 300,
+      "errors": 0,
+      "notdef_pairs": 0,
+      "examples": [
+       [
+        73,
+        73
+       ],
+       [
+        57,
+        57
+       ],
+       [
+        133,
+        133
+       ]
+      ]
+     },
+     "Amiri Quran": {
+      "ink_identical": 0,
+      "advance_identical": 0,
+      "errors": 300,
+      "notdef_pairs": 0,
+      "examples": [],
+      "error": "Cannot read properties of null (reading 'xCoordinate')"
+     },
+     "KFGQPC Uthmanic Hafs": {
+      "ink_identical": 39,
+      "advance_identical": 235,
+      "errors": 0,
+      "notdef_pairs": 0,
+      "examples": [
+       [
+        114,
+        114
+       ],
+       [
+        73,
+        73
+       ],
+       [
+        137,
+        137
+       ]
+      ]
+     }
+    }
+   },
+   "compensated": {
+    "pairs": 300,
+    "fonts": {
+     "Noto Naskh Arabic": {
+      "ink_identical": 0,
+      "advance_identical": 300,
+      "errors": 0,
+      "notdef_pairs": 0,
+      "examples": [
+       [
+        419,
+        419
+       ],
+       [
+        392,
+        392
+       ],
+       [
+        298,
+        298
+       ]
+      ]
+     },
+     "Amiri": {
+      "ink_identical": 0,
+      "advance_identical": 119,
+      "errors": 0,
+      "notdef_pairs": 0,
+      "examples": [
+       [
+        419,
+        419
+       ],
+       [
+        392,
+        392
+       ],
+       [
+        298,
+        298
+       ]
+      ]
+     },
+     "Scheherazade New": {
+      "ink_identical": 34,
+      "advance_identical": 192,
+      "errors": 0,
+      "notdef_pairs": 0,
+      "examples": [
+       [
+        419,
+        419
+       ],
+       [
+        392,
+        392
+       ],
+       [
+        298,
+        298
+       ]
+      ]
+     },
+     "Amiri Quran": {
+      "ink_identical": 0,
+      "advance_identical": 0,
+      "errors": 300,
+      "notdef_pairs": 0,
+      "examples": [],
+      "error": "Cannot read properties of null (reading 'xCoordinate')"
+     },
+     "KFGQPC Uthmanic Hafs": {
+      "ink_identical": 0,
+      "advance_identical": 0,
+      "errors": 0,
+      "notdef_pairs": 0,
+      "examples": [
+       [
+        419,
+        419
+       ],
+       [
+        392,
+        392
+       ],
+       [
+        298,
+        298
+       ]
+      ]
+     }
+    }
+   },
+   "suffix": {
+    "pairs": 300,
+    "fonts": {
+     "Noto Naskh Arabic": {
+      "ink_identical": 300,
+      "advance_identical": 300,
+      "errors": 0,
+      "notdef_pairs": 0,
+      "examples": []
+     },
+     "Amiri": {
+      "ink_identical": 300,
+      "advance_identical": 300,
+      "errors": 0,
+      "notdef_pairs": 0,
+      "examples": []
+     },
+     "Scheherazade New": {
+      "ink_identical": 300,
+      "advance_identical": 300,
+      "errors": 0,
+      "notdef_pairs": 0,
+      "examples": []
+     },
+     "Amiri Quran": {
+      "ink_identical": 0,
+      "advance_identical": 0,
+      "errors": 300,
+      "notdef_pairs": 0,
+      "examples": [],
+      "error": "Cannot read properties of null (reading 'xCoordinate')"
+     },
+     "KFGQPC Uthmanic Hafs": {
+      "ink_identical": 300,
+      "advance_identical": 300,
+      "errors": 0,
+      "notdef_pairs": 0,
+      "examples": []
+     }
+    }
+   }
+  },
+  "nfc_shadda_fatha_words": 3013
+ },
+ "e7_raster": {
+  "NFC|Noto Naskh Arabic": {
+   "sampled": 40,
+   "pixel_different": 40,
+   "max_pixels_changed": 143
+  },
+  "NFC|Amiri": {
+   "sampled": 40,
+   "pixel_different": 40,
+   "max_pixels_changed": 2162
+  },
+  "NFC|Scheherazade New": {
+   "sampled": 37,
+   "pixel_different": 37,
+   "max_pixels_changed": 276
+  },
+  "NFC|KFGQPC Uthmanic Hafs": {
+   "sampled": 40,
+   "pixel_different": 40,
+   "max_pixels_changed": 1102
+  },
+  "NFD|Noto Naskh Arabic": {
+   "sampled": 40,
+   "pixel_different": 40,
+   "max_pixels_changed": 1952
+  },
+  "NFD|Amiri": {
+   "sampled": 40,
+   "pixel_different": 40,
+   "max_pixels_changed": 1259
+  },
+  "NFD|Scheherazade New": {
+   "sampled": 40,
+   "pixel_different": 40,
+   "max_pixels_changed": 1196
+  },
+  "NFD|KFGQPC Uthmanic Hafs": {
+   "sampled": 40,
+   "pixel_different": 40,
+   "max_pixels_changed": 971
+  },
+  "single_P1|Scheherazade New": {
+   "sampled": 17,
+   "pixel_different": 17,
+   "max_pixels_changed": 38551
+  },
+  "single_P1|KFGQPC Uthmanic Hafs": {
+   "sampled": 40,
+   "pixel_different": 40,
+   "max_pixels_changed": 21259
+  },
+  "single_P2|Amiri": {
+   "sampled": 25,
+   "pixel_different": 25,
+   "max_pixels_changed": 19891
+  },
+  "single_P2|KFGQPC Uthmanic Hafs": {
+   "sampled": 40,
+   "pixel_different": 40,
+   "max_pixels_changed": 36940
+  },
+  "single_P3|KFGQPC Uthmanic Hafs": {
+   "sampled": 40,
+   "pixel_different": 40,
+   "max_pixels_changed": 48755
+  },
+  "single_P4|Noto Naskh Arabic": {
+   "sampled": 40,
+   "pixel_different": 40,
+   "max_pixels_changed": 92
+  },
+  "single_P4|Amiri": {
+   "sampled": 40,
+   "pixel_different": 40,
+   "max_pixels_changed": 509
+  },
+  "single_P4|Scheherazade New": {
+   "sampled": 40,
+   "pixel_different": 40,
+   "max_pixels_changed": 204
+  },
+  "single_P4|KFGQPC Uthmanic Hafs": {
+   "sampled": 40,
+   "pixel_different": 40,
+   "max_pixels_changed": 16288
+  },
+  "compensated|Noto Naskh Arabic": {
+   "sampled": 40,
+   "pixel_different": 40,
+   "max_pixels_changed": 767
+  },
+  "compensated|Amiri": {
+   "sampled": 40,
+   "pixel_different": 40,
+   "max_pixels_changed": 39870
+  },
+  "compensated|Scheherazade New": {
+   "sampled": 40,
+   "pixel_different": 40,
+   "max_pixels_changed": 51190
+  },
+  "compensated|KFGQPC Uthmanic Hafs": {
+   "sampled": 40,
+   "pixel_different": 40,
+   "max_pixels_changed": 55217
+  }
+ },
+ "derived": {
+  "n_trials": 14000,
+  "cls_ok": 13992,
+  "cls_ci": [
+   99.88743700709661,
+   99.97532664498182
+  ],
+  "exact_ok": 13998,
+  "exact_ci": [
+   99.94840471645945,
+   99.99826988689983
+  ],
+  "detect_lower_per_operator": 99.63179161031344,
+  "detect_lower_all": 99.97365433212279,
+  "inverse_cls_ok": 11000,
+  "inverse_n": 11000,
+  "hamza_letter_ok": 4996,
+  "hamza_letter_n": 5000,
+  "seed_cls_min": 99.96428571428572,
+  "seed_cls_max": 99.99285714285713,
+  "seed_exact_min": 99.99285714285713,
+  "seed_exact_max": 100.0,
+  "n_seeds": 4,
+  "crc_ok": 995,
+  "crc_n": 1000,
+  "crc_ci": [
+   98.8370529440188,
+   99.83745804824372
+  ],
+  "vis_ci": {
+   "Noto Naskh Arabic": [
+    98.77790253057064,
+    100.0
+   ],
+   "Amiri": [
+    82.28912374321318,
+    90.30077850556788
+   ],
+   "Scheherazade New": [
+    58.625440930421114,
+    69.75496851259157
+   ],
+   "Amiri Quran": [
+    11.449808094374463,
+    19.91770475992105
+   ],
+   "KFGQPC Uthmanic Hafs": [
+    0.0,
+    1.2220974694293552
+   ]
+  },
+  "nfc_shadda_fatha_words": 3013,
+  "suffix_ci_lower": 98.77790253057064,
+  "t3_lower_100": {
+   "1000": 99.63179161031344,
+   "3000": 99.87711291961745,
+   "5000": 99.92624961988919
+  },
+  "t3_cells_below_100": [
+   {
+    "family_ops": [
+     "Letter substitution",
+     "Letter deletion",
+     "Letter insertion",
+     "Word deletion",
+     "Adjacent-word swap"
+    ],
+    "metric": "class_acc",
+    "k": 4992,
+    "n": 5000,
+    "ci": [
+     99.68498092369404,
+     99.93089884473824
+    ]
+   },
+   {
+    "family_ops": [
+     "Verse insertion (duplicate)"
+    ],
+    "metric": "exact_loc",
+    "k": 998,
+    "n": 1000,
+    "ci": [
+     99.27941610885425,
+     99.97576988831227
+    ]
+   }
+  ]
+ }
+}

@@ -1,0 +1,867 @@
+{
+ "meta": {
+  "quran_api_commit": "93e6f64925ae76273520d636fcaaf061129f2316",
+  "npm": {
+   "quran": "0.0.9",
+   "quran-cloud": "1.0.0",
+   "@muslims-community/quran": "1.1.0"
+  },
+  "fetched": "2026-11-11",
+  "excluded": {
+   "ara-kingfahadquranc": "tafsir text (al-Muyassar), not the Quran text",
+   "ara-quranuthmanienc": "byte-identical to ara-quranacademy (same SHA-256)"
+  }
+ },
+ "copies": [
+  {
+   "id": "api-uthmanihaf",
+   "label": "quran-api: Uthmani Hafs",
+   "channel": "API/CDN",
+   "file": "api-ara-quranuthmanihaf.json",
+   "verses": 6236,
+   "chapters": 114,
+   "basmala_headers_split": 0,
+   "distinct_code_points": 69,
+   "verses_not_nfc": 5369,
+   "verses_not_nfd": 434,
+   "farsi_yeh_U06CC": 0,
+   "tatweel_U0640": 535,
+   "default_ignorable": 820,
+   "match": {
+    "uthmani": {
+     "shared": 6236,
+     "raw": 27,
+     "canonical": 78,
+     "sigma": 2874,
+     "sigma_star": 4498
+    },
+    "uthmani-min": {
+     "shared": 6236,
+     "raw": 1,
+     "canonical": 4,
+     "sigma": 2879,
+     "sigma_star": 4498
+    },
+    "simple": {
+     "shared": 6236,
+     "raw": 3,
+     "canonical": 21,
+     "sigma": 1807,
+     "sigma_star": 1807
+    },
+    "simple-clean": {
+     "shared": 6236,
+     "raw": 1,
+     "canonical": 1,
+     "sigma": 1807,
+     "sigma_star": 1807
+    },
+    "qpc-hafs": {
+     "shared": 6236,
+     "raw": 156,
+     "canonical": 2506,
+     "sigma": 4501,
+     "sigma_star": 4501
+    }
+   },
+   "closest": "qpc-hafs",
+   "canonical_only_equal": 2350,
+   "verse_level": {
+    "b3_raw_flagged": 6080,
+    "kappa_flagged": 3730,
+    "equal_to_nfd_of_ref": 2506,
+    "copy_verses_in_nfd": 5802,
+    "ref_verses_in_nfd": 243
+   },
+   "invisible_by_cp": {
+    "U+200F": 820
+   },
+   "nonascii_space_by_cp": {},
+   "sigma_star_hamza_reencoding_only": 0,
+   "sigma_star_differ_after_repair": 1735,
+   "out_of_profile_by_cp": {
+    "U+065C": 1,
+    "U+08F0": 2901,
+    "U+08F1": 1807,
+    "U+08F2": 1935,
+    "U+200F": 820
+   },
+   "accepted": false,
+   "findings": 3730,
+   "labels": {
+    "D": 212,
+    "U+D": 1783,
+    "U+L": 1735
+   },
+   "mismatch_flag": true,
+   "verse0_findings": 0,
+   "verify_ms": 932.5
+  },
+  {
+   "id": "api-simple",
+   "label": "quran-api: Simple",
+   "channel": "API/CDN",
+   "file": "api-ara-quransimple.json",
+   "verses": 6236,
+   "chapters": 114,
+   "basmala_headers_split": 112,
+   "distinct_code_points": 55,
+   "verses_not_nfc": 5445,
+   "verses_not_nfd": 5981,
+   "farsi_yeh_U06CC": 0,
+   "tatweel_U0640": 0,
+   "default_ignorable": 0,
+   "match": {
+    "uthmani": {
+     "shared": 6236,
+     "raw": 179,
+     "canonical": 179,
+     "sigma": 1627,
+     "sigma_star": 2250
+    },
+    "uthmani-min": {
+     "shared": 6236,
+     "raw": 25,
+     "canonical": 25,
+     "sigma": 1627,
+     "sigma_star": 2250
+    },
+    "simple": {
+     "shared": 6236,
+     "raw": 1739,
+     "canonical": 1739,
+     "sigma": 6230,
+     "sigma_star": 6230
+    },
+    "simple-clean": {
+     "shared": 6236,
+     "raw": 20,
+     "canonical": 20,
+     "sigma": 6230,
+     "sigma_star": 6230
+    },
+    "qpc-hafs": {
+     "shared": 6236,
+     "raw": 13,
+     "canonical": 13,
+     "sigma": 2248,
+     "sigma_star": 2248
+    }
+   },
+   "closest": "simple",
+   "canonical_only_equal": 0,
+   "verse_level": {
+    "b3_raw_flagged": 4497,
+    "kappa_flagged": 4497,
+    "equal_to_nfd_of_ref": 178,
+    "copy_verses_in_nfd": 255,
+    "ref_verses_in_nfd": 216
+   },
+   "invisible_by_cp": {},
+   "nonascii_space_by_cp": {},
+   "sigma_star_hamza_reencoding_only": 0,
+   "sigma_star_differ_after_repair": 6,
+   "out_of_profile_by_cp": {
+    "U+06D6": 1682,
+    "U+06D7": 603,
+    "U+06D8": 22,
+    "U+06D9": 68,
+    "U+06DA": 1972,
+    "U+06DB": 12,
+    "U+06DC": 5,
+    "U+06DE": 199,
+    "U+06E9": 15
+   },
+   "accepted": false,
+   "findings": 4499,
+   "labels": {
+    "D": 1778,
+    "L": 2,
+    "U+D": 2715,
+    "U+L": 4
+   },
+   "mismatch_flag": true,
+   "verse0_findings": 2,
+   "verify_ms": 880.4
+  },
+  {
+   "id": "api-academy",
+   "label": "quran-api: Quran Academy",
+   "channel": "API/CDN",
+   "file": "api-ara-quranacademy.json",
+   "verses": 6236,
+   "chapters": 114,
+   "basmala_headers_split": 0,
+   "distinct_code_points": 74,
+   "verses_not_nfc": 5621,
+   "verses_not_nfd": 5989,
+   "farsi_yeh_U06CC": 21912,
+   "tatweel_U0640": 5963,
+   "default_ignorable": 0,
+   "match": {
+    "uthmani": {
+     "shared": 6236,
+     "raw": 30,
+     "canonical": 30,
+     "sigma": 571,
+     "sigma_star": 571
+    },
+    "uthmani-min": {
+     "shared": 6236,
+     "raw": 3,
+     "canonical": 3,
+     "sigma": 571,
+     "sigma_star": 571
+    },
+    "simple": {
+     "shared": 6236,
+     "raw": 17,
+     "canonical": 17,
+     "sigma": 414,
+     "sigma_star": 414
+    },
+    "simple-clean": {
+     "shared": 6236,
+     "raw": 0,
+     "canonical": 0,
+     "sigma": 414,
+     "sigma_star": 414
+    },
+    "qpc-hafs": {
+     "shared": 6236,
+     "raw": 203,
+     "canonical": 203,
+     "sigma": 571,
+     "sigma_star": 571
+    }
+   },
+   "closest": "qpc-hafs",
+   "canonical_only_equal": 0,
+   "verse_level": {
+    "b3_raw_flagged": 6033,
+    "kappa_flagged": 6033,
+    "equal_to_nfd_of_ref": 27,
+    "copy_verses_in_nfd": 247,
+    "ref_verses_in_nfd": 243
+   },
+   "invisible_by_cp": {},
+   "nonascii_space_by_cp": {
+    "U+00A0": 1631
+   },
+   "sigma_star_hamza_reencoding_only": 10,
+   "sigma_star_differ_after_repair": 1708,
+   "out_of_profile_by_cp": {
+    "U+00A0": 1631,
+    "U+0305": 133,
+    "U+06CC": 21912,
+    "U+06DF": 3988,
+    "U+06E3": 2,
+    "U+06EB": 1,
+    "U+08F0": 2901,
+    "U+08F1": 1807,
+    "U+08F2": 1935,
+    "U+08F3": 1
+   },
+   "accepted": false,
+   "findings": 6033,
+   "labels": {
+    "D": 131,
+    "L": 14,
+    "U": 379,
+    "U+D": 2161,
+    "U+L": 3348
+   },
+   "mismatch_flag": true,
+   "verse0_findings": 0,
+   "verify_ms": 912.0
+  },
+  {
+   "id": "api-indopak",
+   "label": "quran-api: IndoPak",
+   "channel": "API/CDN",
+   "file": "api-ara-quranindopak.json",
+   "verses": 6236,
+   "chapters": 114,
+   "basmala_headers_split": 0,
+   "distinct_code_points": 74,
+   "verses_not_nfc": 2193,
+   "verses_not_nfd": 253,
+   "farsi_yeh_U06CC": 0,
+   "tatweel_U0640": 269,
+   "default_ignorable": 2796,
+   "match": {
+    "uthmani": {
+     "shared": 6236,
+     "raw": 1,
+     "canonical": 1,
+     "sigma": 2046,
+     "sigma_star": 4164
+    },
+    "uthmani-min": {
+     "shared": 6236,
+     "raw": 0,
+     "canonical": 0,
+     "sigma": 2050,
+     "sigma_star": 4165
+    },
+    "simple": {
+     "shared": 6236,
+     "raw": 0,
+     "canonical": 0,
+     "sigma": 2075,
+     "sigma_star": 2823
+    },
+    "simple-clean": {
+     "shared": 6236,
+     "raw": 0,
+     "canonical": 0,
+     "sigma": 2075,
+     "sigma_star": 2823
+    },
+    "qpc-hafs": {
+     "shared": 6236,
+     "raw": 1,
+     "canonical": 1,
+     "sigma": 2992,
+     "sigma_star": 4164
+    }
+   },
+   "closest": "uthmani",
+   "canonical_only_equal": 0,
+   "verse_level": {
+    "b3_raw_flagged": 6235,
+    "kappa_flagged": 6235,
+    "equal_to_nfd_of_ref": 1,
+    "copy_verses_in_nfd": 5983,
+    "ref_verses_in_nfd": 235
+   },
+   "invisible_by_cp": {
+    "U+200F": 2796
+   },
+   "nonascii_space_by_cp": {},
+   "sigma_star_hamza_reencoding_only": 0,
+   "sigma_star_differ_after_repair": 2072,
+   "out_of_profile_by_cp": {
+    "U+0614": 30,
+    "U+0615": 3540,
+    "U+0617": 239,
+    "U+0655": 29,
+    "U+0656": 993,
+    "U+0657": 1257,
+    "U+0658": 3027,
+    "U+06D6": 226,
+    "U+06D8": 88,
+    "U+06D9": 1544,
+    "U+06DA": 1692,
+    "U+06DB": 68,
+    "U+06E1": 62381,
+    "U+08D4": 2,
+    "U+08D5": 149,
+    "U+08D6": 558,
+    "U+08D7": 129,
+    "U+08DA": 2,
+    "U+08DB": 14,
+    "U+08DD": 8,
+    "U+08DE": 135,
+    "U+08DF": 11,
+    "U+08E0": 2,
+    "U+08E1": 3,
+    "U+08E2": 116,
+    "U+200F": 2796
+   },
+   "accepted": false,
+   "findings": 6347,
+   "labels": {
+    "D": 4,
+    "L": 25,
+    "S-del": 112,
+    "U+D": 2041,
+    "U+L": 4165
+   },
+   "mismatch_flag": true,
+   "verse0_findings": 112,
+   "verify_ms": 1230.8
+  },
+  {
+   "id": "api-khaledhosn",
+   "label": "quran-api: Khaled Hosney",
+   "channel": "API/CDN",
+   "file": "api-ara-qurankhaledhosn.json",
+   "verses": 6236,
+   "chapters": 114,
+   "basmala_headers_split": 0,
+   "distinct_code_points": 75,
+   "verses_not_nfc": 5717,
+   "verses_not_nfd": 6028,
+   "farsi_yeh_U06CC": 22024,
+   "tatweel_U0640": 6847,
+   "default_ignorable": 1377,
+   "match": {
+    "uthmani": {
+     "shared": 6236,
+     "raw": 28,
+     "canonical": 28,
+     "sigma": 521,
+     "sigma_star": 542
+    },
+    "uthmani-min": {
+     "shared": 6236,
+     "raw": 3,
+     "canonical": 3,
+     "sigma": 521,
+     "sigma_star": 542
+    },
+    "simple": {
+     "shared": 6236,
+     "raw": 17,
+     "canonical": 17,
+     "sigma": 366,
+     "sigma_star": 378
+    },
+    "simple-clean": {
+     "shared": 6236,
+     "raw": 0,
+     "canonical": 0,
+     "sigma": 366,
+     "sigma_star": 378
+    },
+    "qpc-hafs": {
+     "shared": 6236,
+     "raw": 187,
+     "canonical": 187,
+     "sigma": 521,
+     "sigma_star": 542
+    }
+   },
+   "closest": "qpc-hafs",
+   "canonical_only_equal": 0,
+   "verse_level": {
+    "b3_raw_flagged": 6049,
+    "kappa_flagged": 6049,
+    "equal_to_nfd_of_ref": 24,
+    "copy_verses_in_nfd": 208,
+    "ref_verses_in_nfd": 243
+   },
+   "invisible_by_cp": {
+    "U+2060": 1377
+   },
+   "nonascii_space_by_cp": {
+    "U+200A": 1386
+   },
+   "sigma_star_hamza_reencoding_only": 0,
+   "sigma_star_differ_after_repair": 1264,
+   "out_of_profile_by_cp": {
+    "U+065C": 1,
+    "U+06CC": 22024,
+    "U+06DF": 3988,
+    "U+06E3": 1,
+    "U+08F0": 2901,
+    "U+08F1": 1807,
+    "U+08F2": 1935,
+    "U+08F3": 1,
+    "U+200A": 1386,
+    "U+2060": 1377
+   },
+   "accepted": false,
+   "findings": 6049,
+   "labels": {
+    "D": 130,
+    "L": 7,
+    "U": 373,
+    "U+D": 2041,
+    "U+L": 3498
+   },
+   "mismatch_flag": true,
+   "verse0_findings": 0,
+   "verify_ms": 853.9
+  },
+  {
+   "id": "api-uthmanihaf1",
+   "label": "quran-api: Uthmani Hafs, no diacritics",
+   "channel": "API/CDN",
+   "file": "api-ara-quranuthmanihaf1.json",
+   "verses": 6236,
+   "chapters": 114,
+   "basmala_headers_split": 0,
+   "distinct_code_points": 34,
+   "verses_not_nfc": 0,
+   "verses_not_nfd": 0,
+   "farsi_yeh_U06CC": 0,
+   "tatweel_U0640": 0,
+   "default_ignorable": 0,
+   "match": {
+    "uthmani": {
+     "shared": 6236,
+     "raw": 1,
+     "canonical": 1,
+     "sigma": 2874,
+     "sigma_star": 4498
+    },
+    "uthmani-min": {
+     "shared": 6236,
+     "raw": 20,
+     "canonical": 20,
+     "sigma": 2879,
+     "sigma_star": 4498
+    },
+    "simple": {
+     "shared": 6236,
+     "raw": 20,
+     "canonical": 20,
+     "sigma": 1807,
+     "sigma_star": 1807
+    },
+    "simple-clean": {
+     "shared": 6236,
+     "raw": 481,
+     "canonical": 481,
+     "sigma": 1807,
+     "sigma_star": 1807
+    },
+    "qpc-hafs": {
+     "shared": 6236,
+     "raw": 1,
+     "canonical": 1,
+     "sigma": 4501,
+     "sigma_star": 4501
+    }
+   },
+   "closest": "simple-clean",
+   "canonical_only_equal": 0,
+   "verse_level": {
+    "b3_raw_flagged": 5755,
+    "kappa_flagged": 5755,
+    "equal_to_nfd_of_ref": 481,
+    "copy_verses_in_nfd": 6236,
+    "ref_verses_in_nfd": 880
+   },
+   "invisible_by_cp": {},
+   "nonascii_space_by_cp": {},
+   "sigma_star_hamza_reencoding_only": 0,
+   "sigma_star_differ_after_repair": 4429,
+   "out_of_profile_by_cp": {
+    "U+06DE": 199,
+    "U+06E9": 15
+   },
+   "accepted": false,
+   "findings": 5867,
+   "labels": {
+    "D": 1289,
+    "L": 4252,
+    "S-del": 112,
+    "U+D": 37,
+    "U+L": 177
+   },
+   "mismatch_flag": false,
+   "verse0_findings": 112,
+   "verify_ms": 600.7
+  },
+  {
+   "id": "api-spelled",
+   "label": "quran-api: Spelled",
+   "channel": "API/CDN",
+   "file": "api-ara-quranspelled.json",
+   "verses": 6236,
+   "chapters": 114,
+   "basmala_headers_split": 0,
+   "distinct_code_points": 45,
+   "verses_not_nfc": 0,
+   "verses_not_nfd": 5356,
+   "farsi_yeh_U06CC": 0,
+   "tatweel_U0640": 0,
+   "default_ignorable": 0,
+   "match": {
+    "uthmani": {
+     "shared": 6236,
+     "raw": 79,
+     "canonical": 151,
+     "sigma": 1626,
+     "sigma_star": 2249
+    },
+    "uthmani-min": {
+     "shared": 6236,
+     "raw": 20,
+     "canonical": 25,
+     "sigma": 1626,
+     "sigma_star": 2249
+    },
+    "simple": {
+     "shared": 6236,
+     "raw": 353,
+     "canonical": 1601,
+     "sigma": 6227,
+     "sigma_star": 6227
+    },
+    "simple-clean": {
+     "shared": 6236,
+     "raw": 20,
+     "canonical": 20,
+     "sigma": 6227,
+     "sigma_star": 6227
+    },
+    "qpc-hafs": {
+     "shared": 6236,
+     "raw": 2,
+     "canonical": 8,
+     "sigma": 2247,
+     "sigma_star": 2247
+    }
+   },
+   "closest": "simple",
+   "canonical_only_equal": 1248,
+   "verse_level": {
+    "b3_raw_flagged": 5883,
+    "kappa_flagged": 4635,
+    "equal_to_nfd_of_ref": 438,
+    "copy_verses_in_nfd": 880,
+    "ref_verses_in_nfd": 216
+   },
+   "invisible_by_cp": {},
+   "nonascii_space_by_cp": {},
+   "sigma_star_hamza_reencoding_only": 0,
+   "sigma_star_differ_after_repair": 9,
+   "out_of_profile_by_cp": {},
+   "accepted": false,
+   "findings": 4747,
+   "labels": {
+    "D": 4626,
+    "L": 9,
+    "S-del": 112
+   },
+   "mismatch_flag": false,
+   "verse0_findings": 112,
+   "verify_ms": 1057.9
+  },
+  {
+   "id": "npm-quran",
+   "label": "npm quran 0.0.9",
+   "channel": "npm",
+   "file": "npm-quran-0.0.9.sqlite",
+   "verses": 6236,
+   "chapters": 114,
+   "basmala_headers_split": 112,
+   "distinct_code_points": 61,
+   "verses_not_nfc": 5771,
+   "verses_not_nfd": 6024,
+   "farsi_yeh_U06CC": 0,
+   "tatweel_U0640": 495,
+   "default_ignorable": 0,
+   "match": {
+    "uthmani": {
+     "shared": 6236,
+     "raw": 5927,
+     "canonical": 5927,
+     "sigma": 5960,
+     "sigma_star": 5960
+    },
+    "uthmani-min": {
+     "shared": 6236,
+     "raw": 4,
+     "canonical": 4,
+     "sigma": 5942,
+     "sigma_star": 5959
+    },
+    "simple": {
+     "shared": 6236,
+     "raw": 344,
+     "canonical": 344,
+     "sigma": 1597,
+     "sigma_star": 2188
+    },
+    "simple-clean": {
+     "shared": 6236,
+     "raw": 1,
+     "canonical": 1,
+     "sigma": 1597,
+     "sigma_star": 2188
+    },
+    "qpc-hafs": {
+     "shared": 6236,
+     "raw": 78,
+     "canonical": 78,
+     "sigma": 3741,
+     "sigma_star": 5956
+    }
+   },
+   "closest": "uthmani",
+   "canonical_only_equal": 0,
+   "verse_level": {
+    "b3_raw_flagged": 309,
+    "kappa_flagged": 309,
+    "equal_to_nfd_of_ref": 235,
+    "copy_verses_in_nfd": 212,
+    "ref_verses_in_nfd": 235
+   },
+   "invisible_by_cp": {},
+   "nonascii_space_by_cp": {},
+   "sigma_star_hamza_reencoding_only": 250,
+   "sigma_star_differ_after_repair": 276,
+   "out_of_profile_by_cp": {},
+   "accepted": false,
+   "findings": 309,
+   "labels": {
+    "D": 33,
+    "L": 276
+   },
+   "mismatch_flag": false,
+   "verse0_findings": 0,
+   "verify_ms": 124.9
+  },
+  {
+   "id": "npm-quran-cloud",
+   "label": "npm quran-cloud 1.0.0",
+   "channel": "npm",
+   "file": "npm-quran-cloud-1.0.0.json",
+   "verses": 6236,
+   "chapters": 114,
+   "basmala_headers_split": 0,
+   "distinct_code_points": 73,
+   "verses_not_nfc": 5722,
+   "verses_not_nfd": 5993,
+   "farsi_yeh_U06CC": 0,
+   "tatweel_U0640": 1652,
+   "default_ignorable": 0,
+   "match": {
+    "uthmani": {
+     "shared": 6236,
+     "raw": 76,
+     "canonical": 76,
+     "sigma": 3845,
+     "sigma_star": 6230
+    },
+    "uthmani-min": {
+     "shared": 6236,
+     "raw": 4,
+     "canonical": 4,
+     "sigma": 3850,
+     "sigma_star": 6230
+    },
+    "simple": {
+     "shared": 6236,
+     "raw": 21,
+     "canonical": 21,
+     "sigma": 2248,
+     "sigma_star": 2248
+    },
+    "simple-clean": {
+     "shared": 6236,
+     "raw": 1,
+     "canonical": 1,
+     "sigma": 2248,
+     "sigma_star": 2248
+    },
+    "qpc-hafs": {
+     "shared": 6236,
+     "raw": 4810,
+     "canonical": 4810,
+     "sigma": 6233,
+     "sigma_star": 6233
+    }
+   },
+   "closest": "qpc-hafs",
+   "canonical_only_equal": 0,
+   "verse_level": {
+    "b3_raw_flagged": 1426,
+    "kappa_flagged": 1426,
+    "equal_to_nfd_of_ref": 238,
+    "copy_verses_in_nfd": 243,
+    "ref_verses_in_nfd": 243
+   },
+   "invisible_by_cp": {},
+   "nonascii_space_by_cp": {
+    "U+2009": 1
+   },
+   "sigma_star_hamza_reencoding_only": 0,
+   "sigma_star_differ_after_repair": 3,
+   "out_of_profile_by_cp": {
+    "U+065C": 1,
+    "U+2009": 1
+   },
+   "accepted": false,
+   "findings": 1426,
+   "labels": {
+    "D": 1422,
+    "L": 2,
+    "U+D": 1,
+    "U+L": 1
+   },
+   "mismatch_flag": false,
+   "verse0_findings": 0,
+   "verify_ms": 346.1
+  },
+  {
+   "id": "npm-muslims",
+   "label": "npm @muslims-community/quran 1.1.0",
+   "channel": "npm",
+   "file": "npm-muslims-community-quran-1.1.0.json",
+   "verses": 6236,
+   "chapters": 114,
+   "basmala_headers_split": 0,
+   "distinct_code_points": 56,
+   "verses_not_nfc": 5019,
+   "verses_not_nfd": 5828,
+   "farsi_yeh_U06CC": 0,
+   "tatweel_U0640": 812,
+   "default_ignorable": 0,
+   "match": {
+    "uthmani": {
+     "shared": 6236,
+     "raw": 4,
+     "canonical": 4,
+     "sigma": 6216,
+     "sigma_star": 6235
+    },
+    "uthmani-min": {
+     "shared": 6236,
+     "raw": 6236,
+     "canonical": 6236,
+     "sigma": 6236,
+     "sigma_star": 6236
+    },
+    "simple": {
+     "shared": 6236,
+     "raw": 25,
+     "canonical": 25,
+     "sigma": 1628,
+     "sigma_star": 2251
+    },
+    "simple-clean": {
+     "shared": 6236,
+     "raw": 20,
+     "canonical": 20,
+     "sigma": 1628,
+     "sigma_star": 2251
+    },
+    "qpc-hafs": {
+     "shared": 6236,
+     "raw": 4,
+     "canonical": 4,
+     "sigma": 3852,
+     "sigma_star": 6233
+    }
+   },
+   "closest": "uthmani-min",
+   "canonical_only_equal": 0,
+   "verse_level": {
+    "b3_raw_flagged": 0,
+    "kappa_flagged": 0,
+    "equal_to_nfd_of_ref": 408,
+    "copy_verses_in_nfd": 408,
+    "ref_verses_in_nfd": 408
+   },
+   "invisible_by_cp": {},
+   "nonascii_space_by_cp": {},
+   "sigma_star_hamza_reencoding_only": 0,
+   "sigma_star_differ_after_repair": 0,
+   "out_of_profile_by_cp": {},
+   "accepted": false,
+   "findings": 112,
+   "labels": {
+    "S-del": 112
+   },
+   "mismatch_flag": false,
+   "verse0_findings": 112,
+   "verify_ms": 564.9
+  }
+ ]
+}

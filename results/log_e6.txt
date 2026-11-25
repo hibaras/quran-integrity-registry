@@ -1,0 +1,10 @@
+api-uthmanihaf qpc-hafs {'shared': 6236, 'raw': 156, 'canonical': 2506, 'sigma': 4501, 'sigma_star': 4501} False {'D': 212, 'U+D': 1783, 'U+L': 1735} True
+api-simple simple {'shared': 6236, 'raw': 1739, 'canonical': 1739, 'sigma': 6230, 'sigma_star': 6230} False {'D': 1778, 'L': 2, 'U+D': 2715, 'U+L': 4} True
+api-academy qpc-hafs {'shared': 6236, 'raw': 203, 'canonical': 203, 'sigma': 571, 'sigma_star': 571} False {'D': 131, 'L': 14, 'U': 379, 'U+D': 2161, 'U+L': 3348} True
+api-indopak uthmani {'shared': 6236, 'raw': 1, 'canonical': 1, 'sigma': 2046, 'sigma_star': 4164} False {'D': 4, 'L': 25, 'S-del': 112, 'U+D': 2041, 'U+L': 4165} True
+api-khaledhosn qpc-hafs {'shared': 6236, 'raw': 187, 'canonical': 187, 'sigma': 521, 'sigma_star': 542} False {'D': 130, 'L': 7, 'U': 373, 'U+D': 2041, 'U+L': 3498} True
+api-uthmanihaf1 simple-clean {'shared': 6236, 'raw': 481, 'canonical': 481, 'sigma': 1807, 'sigma_star': 1807} False {'D': 1289, 'L': 4252, 'S-del': 112, 'U+D': 37, 'U+L': 177} False
+api-spelled simple {'shared': 6236, 'raw': 353, 'canonical': 1601, 'sigma': 6227, 'sigma_star': 6227} False {'D': 4626, 'L': 9, 'S-del': 112} False
+npm-quran uthmani {'shared': 6236, 'raw': 5927, 'canonical': 5927, 'sigma': 5960, 'sigma_star': 5960} False {'D': 33, 'L': 276} False
+npm-quran-cloud qpc-hafs {'shared': 6236, 'raw': 4810, 'canonical': 4810, 'sigma': 6233, 'sigma_star': 6233} False {'D': 1422, 'L': 2, 'U+D': 1, 'U+L': 1} False
+npm-muslims uthmani-min {'shared': 6236, 'raw': 6236, 'canonical': 6236, 'sigma': 6236, 'sigma_star': 6236} False {'S-del': 112} False
